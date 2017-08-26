@@ -42,25 +42,9 @@ $(document)
 <div class="main">
   <!--==============================header=================================-->
   <header>
-    <h1><a href="index.html"><img src="images/logo.png" alt=""></a></h1>
-    <nav>
-      <div id="slide">
-        <div class="slider">
-          <ul class="items">
-            <li><img src="images/slider-1.jpg" alt=""></li>
-            <li><img src="images/slider-2.jpg" alt=""></li>
-            <li><img src="images/slider-3.jpg" alt=""></li>
-          </ul>
-        </div>
-        <a href="#" class="prev"></a><a href="#" class="next"></a> </div>
-      <ul class="menu">
-        <li><a href="index.html" class="clr-1">Home</a></li>
-        <li><a href="about.html" class="clr-2">About</a></li>
-        <li><a href="schedule.html" class="clr-3">Schedule</a></li>
-        <li><a href="gallery.html" class="clr-4">Gallery</a></li>
-        <li class="current"><a href="contacts.html" class="clr-5">Contacts</a></li>
-      </ul>
-    </nav>
+  <?php
+include('header.php');
+  ?>
   </header>
   <!--==============================content================================-->
   <section id="content">
@@ -102,13 +86,14 @@ $(document)
           </div>
         </div>
         <!--==============================footer=================================-->
-        <footer>
-          <p>© 2012 Art School</p>
-          <p>Website Template by <a target="_blank" href="http://www.templatemonster.com/" class="link">TemplateMonster.com</a></p>
-        </footer>
+        
       </div>
       <div class="clear"></div>
-    </div>
+    </div><footer>
+     <?php 
+            require('footer.php');
+          ?>
+        </footer>
   </section>
 </div>
 </body>
