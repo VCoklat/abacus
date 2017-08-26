@@ -12,16 +12,23 @@
         <a href="#" class="prev"></a><a href="#" class="next"></a> </div>
     <div style="width: 100%;
         text-align: center; margin-top:40px;">
-      <ul class="menu" >
-        <li class="current"><a href="index.php" class="clr-1">Home</a></li>
-        <li><a href="about.php" class="clr-2">About Us</a></li>
-        <li><a href="schedule.php" class="clr-3">Our Programme</a></li>
+      <div class="dropdown"> 
+      <ul class="menu">
+        <li><a href="index.php" class="clr-1">Home</a></li>
+        <li class="dropbtn"><a href="about.php" class="clr-2">About Us</a></li>        
+        <li><a href="" class="clr-3">Our Programme</a></li>     
         <li><a href="gallery.php" class="clr-4">Hall Of Fame</a></li>
         <li><a href="contacts.php" class="clr-5">Testimony</a></li>
     <li><a href="contacts.php" class="clr-5">FAQ</a></li>
     <li><a href="contacts.php" class="clr-5">Contacts</a></li>
     <li><a href="contacts.php" class="clr-5">Enroll Now</a></li>
-      </ul>
+      </ul></div> 
+      <div class="dropdown-content">
+        <a href="schedule.php">Company Profile</a>
+        <a href="schedule.php">ABG Method</a>
+        <a href="schedule.php">Facility</a>
+        <a href="schedule.php">Article</a>
+        </div>
      </div>
     </nav>
   </header>
