@@ -46,19 +46,20 @@ $(document)
 include('header.php');
   ?>
   </header>
+  <br>
   <!--==============================content================================-->
   <section id="content">
     <div class="container_12">
       <div class="grid_4 bot-1">
         <h2 class="top-6">Contact Us</h2>
         <div class="map">
-          <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.974127212459!2d106.66493331431369!3d-6.267132995463832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb0660a81a35%3A0x6774b61b6ecca67d!2sAbacus+Brain+Gym+Indonesia!5e0!3m2!1sen!2sid!4v1503743812694" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         <dl>
-          <dt>8901 Marmora Road, <br>
-            Glasgow, D04 89GR.</dt>
-          <dd><span>Telephone: </span>+1 800 603 6035</dd>
-          <dd><span>E-mail: </span><a href="#" class="link">mail@demolink.org</a></dd>
+          <dt style="color: skyblue">Jl. BSD Raya Utama No.22, Pagedangan,<br>
+Kota Tangerang<br>
+          <dd style="color: skyblue"><span>Telephone: </span>(021) 30048138</dd>
+          <dd style="color: skyblue"><span>facebook : </span> @abacusbraingymID</dd>
         </dl>
       </div>
       <div class="grid_8">
