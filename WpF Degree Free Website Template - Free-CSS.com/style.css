@@ -35,6 +35,19 @@ License URI: http://www.gnu.org/licenses/gpl.html
 /* BASIC TYPOGRAPHY */
 /*--------------------*/
 
+.formdaftaran{
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+.textpendaftaran{
+  margin-left: 10px;
+  margin-bottom:10px;
+  border:0;
+  width: 60vw;
+  background-color: aqua;
+}
+
 body,html{
   overflow-x:hidden;
 }
