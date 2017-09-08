@@ -192,10 +192,10 @@ img{
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background-color: transparent;
 }
-.navbar-nav > li > .dropdown-menu {
+.navbar-nav > li{
   background-color: #48575a; 
 }
-.navbar-nav > li > .dropdown-menu:before { 
+.navbar-nav > li:before { 
   border-bottom: 15px solid #48575a; 
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
@@ -206,7 +206,7 @@ img{
   top: -15px;
   width: 0;
 }
-.navbar-nav > li > .dropdown-menu li a {
+.navbar-nav > li a {
   border-bottom: 1px dotted rgba(255, 255, 255, 0.3);
   color: #fff;
   display: none;  
@@ -217,11 +217,44 @@ img{
   transition: all 0.5s;
 }
 
-
-.navbar-nav > li > .dropdown-menu > li:last-child a {
-  border-bottom: medium none;
+.navbar-nav > li a {
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.3);
+  color: #fff;
+  display: block;  
+  opacity: 0.8;
+  padding: 10px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
+.navbar-nav ul{
+  display: none;
+  background-color: black;
+}
+
+.navbar-nav li:hover > ul{
+display: block;
+}
+
+   .navbar-nav ul li {
+              float: none;
+              position: relative;
+            }
+            .navbar-nav ul ul li a {
+              padding: 15px 40px;
+            }
+            .navbar-nav ul ul ul {
+              position: absolute;
+              left: 100%;
+              top: 0;
+            }
+
+
+
+/* .navbar-nav > li > .dropdown-menu > li:last-child a {
+  border-bottom: medium none;
+}
 .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
   background-color:transparent;  
   text-decoration: none;
@@ -229,13 +262,12 @@ img{
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
   background-color: transparent;  
 }
-
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
   background-color: transparent;
-}
+}*/
 
 /*--------------------*/
 /* HOME SLIDER SECTION */

@@ -17,10 +17,10 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="index.php">Home</a></li>
   <!-- blog-archive.html -->
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tentang Kami<span class="caret"></span></a>
+                <li>
+                <a href="#" >Tentang Kami<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="blog-single.html">Company Profile</a></li>
                     <li><a href="#">ABG Method</a>
@@ -37,9 +37,9 @@
                 </li>
               <!--   <li><a href="course-archive.html">Our Programme</a></li>   -->
                  <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Program<span class="caret"></span></a>
+                  <a href="#">Program<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="404.html">Regular</a></li>
+                    <li><a href="#">Regular</a></li>
                     <li><a href="#">Event</a></li>
                     <li><a href="#">Gallery</a></li>               
                   </ul>
