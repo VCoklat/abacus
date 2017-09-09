@@ -63,62 +63,16 @@
     <!--=========== BEGIN HEADER SECTION ================-->
     <header id="header">
       <!-- BEGIN MENU -->
-      <div class="menu_area">
-        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">  <div class="container">
-            <div class="navbar-header">
-              <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <!-- LOGO -->
-              <!-- TEXT BASED LOGO -->
-              <a class="navbar-brand" href="index.html">WpF <span>Degree</span></a>              
-              <!-- IMG BASED LOGO  -->
-               <!-- <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"></a>  -->            
-                     
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-              <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-                <li class="active"><a href="index.html">Home</a></li>
-  <!-- blog-archive.html -->
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About Us<span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="404.html">Company</a></li>
-                    <li><a href="#">ABG Method</a></li>
-                    <li><a href="#">Facility</a></li>               
-                    <li><a href="#">Article</a></li>               
-                  </ul>
-                </li>
-              <!--   <li><a href="course-archive.html">Our Programme</a></li>   -->
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Our Programme<span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="404.html">Regular</a></li>
-                    <li><a href="#">Event</a></li>
-                    <li><a href="#">Gallery</a></li>               
-                  </ul>
-                </li>  
-                <li><a href="gallery.html">Hall of Fame</a></li>        
-                <li><a href="scholarship.html">Testimony</a></li>
-                <li><a href="events-archive.html">FAQ</a></li>             
-                <li><a href="contact.html">Contacts</a></li>
-                <li><a href="contact.html">Enroll Now</a></li>
-              </ul>           
-            </div><!--/.nav-collapse -->
-          </div>     
-        </nav>  
-      </div>
+      <?php
+        include 'header.php';
+      ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Events Single</h2>
+      <h2>Brain Gym</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -209,81 +163,9 @@ Sebagai tugas di rumah, anak akan diminta untuk berlatih gerakan-gerakan yang te
           <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Popular Events <span class="fa fa-angle-double-right"></span></h2>
-                <ul class="news_tab">
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>                  
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Category <span class="fa fa-angle-double-right"></span></h2>
-                <ul>
-                  <li><a href="#">Food</a></li>
-                  <li><a href="#">Technology</a></li>
-                  <li><a href="#">Fashion</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">Games</a></li>
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Tags <span class="fa fa-angle-double-right"></span></h2>
-                <ul class="tags_nav">
-                  <li><a href="#"><i class="fa fa-tags"></i>Creative</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>News</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Technology</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Art</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Audio</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>video</a></li>
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
-                <a class="side_add" href="#"><img src="img/side-add.jpg" alt="img"></a>
-              </div>
+          <?php
+include 'sidebar.php';
+             ?>
               <!-- End single sidebar -->
             </div>
           </div>
@@ -296,73 +178,9 @@ Sebagai tugas di rumah, anak akan diminta untuk berlatih gerakan-gerakan yang te
     <!--=========== BEGIN FOOTER SECTION ================-->
     <footer id="footer">
       <!-- Start footer top area -->
-      <div class="footer_top">
-        <div class="container">
-          <div class="row">
-            <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
-                <h3>About Us</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-              </div>
-            </div>
-            <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
-                <h3>Community</h3>
-                <ul class="footer_widget_nav">
-                  <li><a href="#">Our Tutors</a></li>
-                  <li><a href="#">Our Students</a></li>
-                  <li><a href="#">Our Team</a></li>
-                  <li><a href="#">Forum</a></li>
-                  <li><a href="#">News &amp; Media</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
-                <h3>Others</h3>
-                <ul class="footer_widget_nav">
-                  <li><a href="#">Link 1</a></li>
-                  <li><a href="#">Link 2</a></li>
-                  <li><a href="#">Link 3</a></li>
-                  <li><a href="#">Link 4</a></li>
-                  <li><a href="#">Link 5</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
-                <h3>Social Links</h3>
-                <ul class="footer_social">
-                  <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a data-toggle="tooltip" data-placement="top" title="Google+" class="soc_tooltip"  href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="#"><i class="fa fa-linkedin"></i></a></li>
-                  <li><a data-toggle="tooltip" data-placement="top" title="Youtube" class="soc_tooltip"  href="#"><i class="fa fa-youtube"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End footer top area -->
-
-      <!-- Start footer bottom area -->
-      <div class="footer_bottom">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="footer_bootomLeft">
-                <p> Copyright &copy; All Rights Reserved</p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="footer_bootomRight">
-                <p>Designed by <a href="http://wpfreeware.com/" rel="nofollow">Wpfreeware.com</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php
+        include 'footer.php';
+      ?>
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 

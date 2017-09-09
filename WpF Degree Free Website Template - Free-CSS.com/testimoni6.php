@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -51,6 +53,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+ pre{
+    white-space: pre-wrap;
+    word-break: keep-all; /*this stops the word breaking*/
+    font-family: 'Varela', sans-serif;
+    font-size: 20px;
+}
+
+</style>
   </head>
   <body> 
 
@@ -63,14 +74,14 @@
       <!-- BEGIN MENU -->
      <?php
 include 'header.php';
-     ?>
+             ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Artikel</h2>
+      <h2>Testimoni</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -95,28 +106,22 @@ include 'header.php';
                       </div>
                     </div>
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Fakta Menarik tentang Otak</a></h2>
-                    <div class="blog_commentbox">
-                    <!--   <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
-                    </div>
-                    <p>
-<font style="font-weight: bold">Timing is certainly critical!</font><br>
-Pengukuran tentang aktifitas otak menunjukan bahwa anak pada umur 6-10 tahun, prefrontal cortex, dan logika mereka berkembang dengan sangat pesat, sehingga akan menghabiskan energi kira kira 2x lebih banyak dari orang dewasa.
-<br><br>
-<font style="font-weight: bold">“Use it or Lose it"  </font><br>
-Kurangnya stimulasi otak yang tepat selama tahun-tahun perkembangan anak memiliki dampak negatif yang signifikan terhadap kemampuan kognitif anak-anak dan berkorelasi dengan penurunan kinerja otak di kemudian hari.
-<br><br>
-<font style="font-weight: bold">Math Anxiety</font><br>
-Menggunakan kalkulator bisa membatasi kemampuan memori jangka pendek seseorang yang digunakan untuk menyelesaikan soal matematika yang kompleks. Soal matematika yang kompleks membutuhkan kemampuan memori jangka pendek yang khusus yang biasanya tidak kita perlukan saat mengerjakan soal aritmatika sederhana, karena soal matematika yang rumit biasanya melibatkan kegiatan seperti membawa, meminjam, dan menyimpan angka. Kegiatan ini membutuhkan kemampuan ingatan jangka pendek yang baik. <br><br>
-Selain mengurangi kemampuan memori jangka pendek seseorang, penggunaan kalkulator juga bisa meningkatkan kecemasan seseorang pada matematika. Hal ini dapat memperburuk kinerja otak seseorang melalui 2 cara. Pertama, orang tersebut akan menghindari mempelajari pelajaran tersebut, sehingga menurunkan kompetensi orang tersebut. Kedua, karena ada pemikiran yang mengganggu, maka kapasistas memori untuk bekerja akan terhambat. 
-</p>
-                    
+                    <h2 class="blog_title"><a href="testimoni6.php">Kara Li - Age 10</a></h2>
+                   
+                    <pre>
+The Abacus Brain Study program helps you everywhere, especially in school. You may be left behind in school, but when you come to Abacus Brain Study, you’re on top of your school.  Abacus helps train your brain. You can do very long equations really fast in your head, like 5+2+3+10-6...    First, you learn how to use an abacus in Grade 10. Then you start to imagine an abacus in your head. Once you get used to it, you can do a question really fast.
+
+If I had time, I would help other students learn how to use the abacus. I would persuade them to come to Abacus Brain Study and join the fun. At first, it may be boring when you start learning, but when you do the homework and earn tickets; you get to buy items with your tickets. There are lots of fun things, like games (i.e. Monopoly, Life, etc.), lamps, DVDs, CDs and a lot more fun coming your way!
+
+Abacus helps you a lot. When you get started, you get an abacus, a binder with a schedule, and a backpack that says ‘Born to be a Genius’.
+
+Abacus helps you a lot in math. You can do stuff really fast in your head. At first, you hate math, then you love it.  You’ll be happy you joined Abacus Brain Study!
+</pre>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Testimoni</a>
+                    <a class="next_post wow fadeInRight" href="#">Next Testimoni<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -186,7 +191,7 @@ include 'sidebar.php';
       <!-- Start footer top area -->
       <?php
 include 'footer.php';
-      ?>
+             ?>
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 

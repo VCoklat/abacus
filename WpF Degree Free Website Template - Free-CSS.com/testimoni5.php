@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -51,6 +53,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+ pre{
+    white-space: pre-wrap;
+    word-break: keep-all; /*this stops the word breaking*/
+    font-family: 'Varela', sans-serif;
+    font-size: 20px;
+}
+
+</style>
   </head>
   <body> 
 
@@ -63,14 +74,14 @@
       <!-- BEGIN MENU -->
      <?php
 include 'header.php';
-     ?>
+             ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Artikel</h2>
+      <h2>Testimoni</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -95,28 +106,20 @@ include 'header.php';
                       </div>
                     </div>
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Fakta Menarik tentang Otak</a></h2>
-                    <div class="blog_commentbox">
-                    <!--   <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
-                    </div>
-                    <p>
-<font style="font-weight: bold">Timing is certainly critical!</font><br>
-Pengukuran tentang aktifitas otak menunjukan bahwa anak pada umur 6-10 tahun, prefrontal cortex, dan logika mereka berkembang dengan sangat pesat, sehingga akan menghabiskan energi kira kira 2x lebih banyak dari orang dewasa.
-<br><br>
-<font style="font-weight: bold">“Use it or Lose it"  </font><br>
-Kurangnya stimulasi otak yang tepat selama tahun-tahun perkembangan anak memiliki dampak negatif yang signifikan terhadap kemampuan kognitif anak-anak dan berkorelasi dengan penurunan kinerja otak di kemudian hari.
-<br><br>
-<font style="font-weight: bold">Math Anxiety</font><br>
-Menggunakan kalkulator bisa membatasi kemampuan memori jangka pendek seseorang yang digunakan untuk menyelesaikan soal matematika yang kompleks. Soal matematika yang kompleks membutuhkan kemampuan memori jangka pendek yang khusus yang biasanya tidak kita perlukan saat mengerjakan soal aritmatika sederhana, karena soal matematika yang rumit biasanya melibatkan kegiatan seperti membawa, meminjam, dan menyimpan angka. Kegiatan ini membutuhkan kemampuan ingatan jangka pendek yang baik. <br><br>
-Selain mengurangi kemampuan memori jangka pendek seseorang, penggunaan kalkulator juga bisa meningkatkan kecemasan seseorang pada matematika. Hal ini dapat memperburuk kinerja otak seseorang melalui 2 cara. Pertama, orang tersebut akan menghindari mempelajari pelajaran tersebut, sehingga menurunkan kompetensi orang tersebut. Kedua, karena ada pemikiran yang mengganggu, maka kapasistas memori untuk bekerja akan terhambat. 
-</p>
-                    
+                    <h2 class="blog_title"><a href="testimoni5.php">Rayhan Chang - Age 13</a></h2>
+                   
+                    <pre>
+When people ask me how I memorize a twenty-five page concerto in a very short amount of time, or how I come up with ideas so quickly, I tell them that I take Abacus class. It’s a great class that teaches you how to add, subtract, multiply, and divide immense numbers, but most importantly, it helps you develop a magnificent memory and superior concentration.
+     
+Abacus has helped me in school too. Not only has it helped me in math, but also on tests. I can remember more topics the test is going to covered, and what it’s going to be about and, therefore, be more prepared on the day of the test.
+Mrs. Juli Djonli, our instructor, is a magnificent teacher because she’s patient when I don’t understand something. She makes Abacus class fun and not monotonous at all.
+I am happy to say that abacus has made a difference in many aspects of my life.
+</pre>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Testimoni</a>
+                    <a class="next_post wow fadeInRight" href="#">Next Testimoni<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -186,7 +189,7 @@ include 'sidebar.php';
       <!-- Start footer top area -->
       <?php
 include 'footer.php';
-      ?>
+             ?>
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 

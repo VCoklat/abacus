@@ -4,7 +4,7 @@
             <div class="col-ld-3  col-md-3 col-sm-3">
               <div class="single_footer_widget">
                 <h3>About Us</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Abacus Brain Gym merupakan pelatihan otak tercanggih untuk anak usia 4-12 tahun melalui pembelajaran metode sempoa, dilengkapi dengan sesi brain gym (senam otak) dan character building (pembangunan karakter) melalui story telling (cerita), yang telah terbukti efektif.</p>
               </div>
             </div>
             <div class="col-ld-3  col-md-3 col-sm-3">
@@ -39,7 +39,9 @@
               <!--     <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="#"><i class="fa fa-twitter"></i></a></li>
                   <li><a data-toggle="tooltip" data-placement="top" title="Google+" class="soc_tooltip"  href="#"><i class="fa fa-google-plus"></i></a></li>
                   <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="#"><i class="fa fa-linkedin"></i></a></li> -->
-                  <li><a data-toggle="tooltip" data-placement="top" title="Youtube" class="soc_tooltip"  href="bit.ly/AbacusBrainGym"><i class="fa fa-youtube"></i></a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="contact.php"><i class="fa fa-envelope"></i></a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="Youtube" class="soc_tooltip"  href="https://www.youtube.com/channel/UCHfnnsLsFutbpd5iCJpcLtw"><i class="fa fa-youtube"></i></a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="https://www.instagram.com/abacusbraingym/"><i class="fa fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>

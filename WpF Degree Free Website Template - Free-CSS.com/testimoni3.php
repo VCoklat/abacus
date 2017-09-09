@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -51,6 +53,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+ pre{
+    white-space: pre-wrap;
+    word-break: keep-all; /*this stops the word breaking*/
+    font-family: 'Varela', sans-serif;
+    font-size: 20px;
+}
+
+</style>
   </head>
   <body> 
 
@@ -63,14 +74,14 @@
       <!-- BEGIN MENU -->
      <?php
 include 'header.php';
-     ?>
+             ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Artikel</h2>
+      <h2>Testimoni</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -95,28 +106,25 @@ include 'header.php';
                       </div>
                     </div>
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Fakta Menarik tentang Otak</a></h2>
-                    <div class="blog_commentbox">
-                    <!--   <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
-                    </div>
-                    <p>
-<font style="font-weight: bold">Timing is certainly critical!</font><br>
-Pengukuran tentang aktifitas otak menunjukan bahwa anak pada umur 6-10 tahun, prefrontal cortex, dan logika mereka berkembang dengan sangat pesat, sehingga akan menghabiskan energi kira kira 2x lebih banyak dari orang dewasa.
-<br><br>
-<font style="font-weight: bold">“Use it or Lose it"  </font><br>
-Kurangnya stimulasi otak yang tepat selama tahun-tahun perkembangan anak memiliki dampak negatif yang signifikan terhadap kemampuan kognitif anak-anak dan berkorelasi dengan penurunan kinerja otak di kemudian hari.
-<br><br>
-<font style="font-weight: bold">Math Anxiety</font><br>
-Menggunakan kalkulator bisa membatasi kemampuan memori jangka pendek seseorang yang digunakan untuk menyelesaikan soal matematika yang kompleks. Soal matematika yang kompleks membutuhkan kemampuan memori jangka pendek yang khusus yang biasanya tidak kita perlukan saat mengerjakan soal aritmatika sederhana, karena soal matematika yang rumit biasanya melibatkan kegiatan seperti membawa, meminjam, dan menyimpan angka. Kegiatan ini membutuhkan kemampuan ingatan jangka pendek yang baik. <br><br>
-Selain mengurangi kemampuan memori jangka pendek seseorang, penggunaan kalkulator juga bisa meningkatkan kecemasan seseorang pada matematika. Hal ini dapat memperburuk kinerja otak seseorang melalui 2 cara. Pertama, orang tersebut akan menghindari mempelajari pelajaran tersebut, sehingga menurunkan kompetensi orang tersebut. Kedua, karena ada pemikiran yang mengganggu, maka kapasistas memori untuk bekerja akan terhambat. 
-</p>
-                    
+                    <h2 class="blog_title"><a href="testimoni3.php">Rina & Pankaj Gajjar, Parents of ABG's student</a></h2>
+                   
+                    <pre>
+“We are really glad to have signed Neal up for the brain training at Abacus Brain Study.  In less than 6 months, Neal has gone from 2 numbers addition to 8 numbers  addition and subtraction all done in his mind mentally through his imagination skill.”
+
+“Although Neal is only 5 years old and in kindergarten, he has shown the learning skill acquired at the second grade level and he has become an excellent reader.”
+
+“We are very impressed with his reading skill and he can even spell very difficult words that we won't expect him to have the memory skill to recall the letters.”
+
+“We truly believe that the mental abacus training helps synchronize  both sides of the brain to work actively for a much more efficient learning and help kids build confidence. “
+
+“We are so glad that ABG is doing this for our kids.”
+Rina & Pankaj Gajjar, Parents of ABG's student
+</pre>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Testimoni</a>
+                    <a class="next_post wow fadeInRight" href="#">Next Testimoni<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -186,7 +194,7 @@ include 'sidebar.php';
       <!-- Start footer top area -->
       <?php
 include 'footer.php';
-      ?>
+             ?>
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 

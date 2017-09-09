@@ -10,7 +10,7 @@
               </button>
               <!-- LOGO -->
               <!-- TEXT BASED LOGO -->
-              <a class="navbar-brand" href="index.html">WpF <span>Degree</span></a>              
+              <a class="navbar-brand" href="index.html">Abacus <span>Brain Gym</span><br><span style="margin-top: 5px;color: red">Indonesia </span></a>              
               <!-- IMG BASED LOGO  -->
                <!-- <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"></a>  -->            
                      
@@ -22,32 +22,50 @@
                 <li>
                 <a href="#" >Tentang Kami<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="blog-single.html">Company Profile</a></li>
+                    <li><a href="#">Company Profile</a>
+                    <ul>
+                      <li><a href="companyprofilesejarah.php">Sejarah</a></li>   
+                      <li><a href="companyprofilevisi.php">Visi dan Misi</a></li>   
+                      <li><a href="artikelCompanyprofile.php">Keistimewaan</a></li>   
+                      <li><a href="companyprofilependiri.php">Profil Pendiri</a></li>   
+
+
+                    </ul>
+
+                    </li>
                     <li><a href="#">ABG Method</a>
                     <ul>
-                      <li><a href="#">Method1</a></li>   
-                      <li><a href="#">Method1</a></li>   
-                      <li><a href="#">Method1</a></li>   
+                      <li><a href="sempoalist.php">Metode Sempoa</a></li>   
+                      <li><a href="senamotaklist.php">Senam otak</a></li>   
+                      <li><a href="CBlist.php">Pembangunan Karakter</a></li>   
                       </ul>           
                        </li>
-                    <li><a href="#">Article</a></li>
-                    <li><a href="#">Facility</a></li>               
-                    <li><a href="#">Article</a></li>
+                       <li><a href="artikel-fasilitas.php">Facility</a></li>       
+                    <li><a href="artikels.php">Article</a></li>
+                            
                   </ul>
                 </li>
               <!--   <li><a href="course-archive.html">Our Programme</a></li>   -->
-                 <li class="dropdown">
+                 <li>
                   <a href="#">Program<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Regular</a></li>
-                    <li><a href="#">Event</a></li>
-                    <li><a href="#">Gallery</a></li>               
+                  <li><a href="ourprogramme.php">Program Reguler</a></li>
+                    <li><a href="acara.php">Acara</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>               
+                    <li><a href="testimonilist.php">Testimoni</a></li>
+                    
                   </ul>
                 </li>  
                 <li><a href="lokasi.php">Lokasi</a></li>        
                 
                 <li><a href="contact.php">Hubungi Kami</a></li>
-                <li><a href="FAQ.php">FAQ</a></li>             
+                <li style="width: 80px"><a href="#">FAQ<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="FAQ.php">FAQ</a></li>
+                      <li><a href="FAQ-list.php">List FAQ</a></li>
+                    </ul>
+                </li>             
+
                 <li><a href="form-pendaftaran.php">Daftar Sekarang</a></li>
               </ul>           
             </div><!--/.nav-collapse -->

@@ -2,14 +2,14 @@
 <html lang="en">
   <head>
     <!--=============================================== 
-    Template Design By WpFreeware Team.
-    Author URI : http://www.wpfreeware.com/
+      Template Design By WpFreeware Team.
+      Author URI : http://www.wpfreeware.com/
     ====================================================-->
     <!-- Basic Page Needs
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>WpF Degree : Events Single</title>
+     <title>WpF Degree : Blog Single</title>
 
     <!-- Mobile Specific Metas
     ================================================== -->
@@ -51,26 +51,28 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+  
   </head>
-  <body> 
+  <body>
 
     <!-- SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#"></a>
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-    <header id="header">
+     <header id="header">
       <!-- BEGIN MENU -->
-     <?php
-include 'header.php';
-     ?>
+    <?php
+include("header.php");
+    ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Artikel</h2>
+      <h2>Company Profile</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -86,80 +88,39 @@ include 'header.php';
                 <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog">
-                    <!-- start events slider -->
-                    <div class="events_slider_area">
-                      <div class="events_slider">
-                        <div><img src="img/events-slider3.jpg" alt="img"></div>
-                        <div><img src="img/events-slider1.jpg" alt="img"></div>
-                        <div><img src="img/events-slider2.jpg" alt="img"></div>
-                      </div>
+                    <div class="blogimg_container">
+                      <a href="#" class="blog_img">
+                        <img alt="img" src="img/blog.jpg">
+                      </a>
                     </div>
-                    <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Fakta Menarik tentang Otak</a></h2>
-                    <div class="blog_commentbox">
-                    <!--   <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
-                    </div>
-                    <p>
-<font style="font-weight: bold">Timing is certainly critical!</font><br>
-Pengukuran tentang aktifitas otak menunjukan bahwa anak pada umur 6-10 tahun, prefrontal cortex, dan logika mereka berkembang dengan sangat pesat, sehingga akan menghabiskan energi kira kira 2x lebih banyak dari orang dewasa.
-<br><br>
-<font style="font-weight: bold">“Use it or Lose it"  </font><br>
-Kurangnya stimulasi otak yang tepat selama tahun-tahun perkembangan anak memiliki dampak negatif yang signifikan terhadap kemampuan kognitif anak-anak dan berkorelasi dengan penurunan kinerja otak di kemudian hari.
-<br><br>
-<font style="font-weight: bold">Math Anxiety</font><br>
-Menggunakan kalkulator bisa membatasi kemampuan memori jangka pendek seseorang yang digunakan untuk menyelesaikan soal matematika yang kompleks. Soal matematika yang kompleks membutuhkan kemampuan memori jangka pendek yang khusus yang biasanya tidak kita perlukan saat mengerjakan soal aritmatika sederhana, karena soal matematika yang rumit biasanya melibatkan kegiatan seperti membawa, meminjam, dan menyimpan angka. Kegiatan ini membutuhkan kemampuan ingatan jangka pendek yang baik. <br><br>
-Selain mengurangi kemampuan memori jangka pendek seseorang, penggunaan kalkulator juga bisa meningkatkan kecemasan seseorang pada matematika. Hal ini dapat memperburuk kinerja otak seseorang melalui 2 cara. Pertama, orang tersebut akan menghindari mempelajari pelajaran tersebut, sehingga menurunkan kompetensi orang tersebut. Kedua, karena ada pemikiran yang mengganggu, maka kapasistas memori untuk bekerja akan terhambat. 
+                    <h2 class="blog_title"><a href="blog-single.html"> Company Profile</a></h2>
+                 
+<div style="margin-top: 20px">
+  <center><h2>Sejarah</h2></center><br>
+<p>Abacus Brain Gym didirikan pada tahun 2003 di Texas, USA, oleh Juli Agustar. Beliau menciptakan inovasi dalam pembelajaran metode sempoa dengan menggabungkan 2 elemen paling efektif dalam pembelajaran sempoa dan pelatihan otak, yakni kurikulum sempoa dari Grand Master Taiwan dan metode hi-speed listening dari Jepang. Kemudian beliau menciptakan software Abacus Explorer untuk memaksimalkan keefektifan pembelajaran sempoa menjadi Abacus Brain Gym sebagai pelatihan otak tercanggih.</p>
+<p>
+Dengan keunggulan lebih dari satu decade, Angie Michaela Marella mendirikan Abacus Brain Gym di Indonesia pada tahun 2013 dengan menambahkan inovasi baru yang pertama dan satu-satunya di Indonesia. Abacus Brain Gym hadir di Indonesia dengan menggabungkan pembelajaran metode sempoa, sesi brain gym (senam otak), dan sesi character building (pembentukan karakter) melalui story telling (cerita).</p>
+<p>
+Abacus Brain Gym Indonesia melihat bahwa saat ini banyak anak yang kurang bergerak akibat era digital dimana anak lebih sering menghabiskan waktu dengan duduk menonton televisi atau bermain gadget. Menyadari hal tersebut, Abacus Brain Gym Indonesia menambahkan sesi brain gym (senam otak) di setiap awal pertemuan. Pada sesi brain gym, anak akan diajak untuk menggerakan tangan, kepala, kaki, dan anggota tubuh lainnya melalui gerakan-gerakan sederhana, sehingga aliran darah pada tubuh akan lebih lancar dan tubuh menjadi lebih sehat. </p>
+<p>
+Brain gym sebenarnya merupakan metode yang sudah terkenal dan terbukti efektif dalam menyeimbangkan otak kanan dan kiri, serta meningkatkan fokus dan konsentrasi. Dengan demikian, brain gym selaras dengan tujuan utama pembelajaran sempoa untuk menyeimbangkan otak kanan dan kiri. Berdasarkan fakta tersebut, Abacus Brain Gym Indonesia menjadikan sesi brain gym sebagai ice breaking yang bermanfaat di setiap awal pertemuan. Sesi ini sekaligus bertujuan untuk memotivasi anak-anak agar bersemangat dan fokus dalam belajar metode sempoa. </p>
+<p>
+Kemudian, Abacus Brain Gym Indonesia juga melihat bahwa ada banyak anak cerdas di Indonesia dan dunia, namun anak yang berkarakter baik masih jarang ditemui. Menyadari hal tersebut dan pentingnya karakter baik pada anak demi kesuksesan di masa yang akan datang, Abacus Brain Gym Indonesia memanfaatkan keadaan dan potensi otak anak yang telah distimulasi melalui pembelajaran metode sempoa dan senam otak untuk menanamkan nilai-nilai positif pada anak melalui cerita anak-anak yang menarik dan bermoral.</p>
+<p>
+Inovasi-inovasi tersebut menjadikan Abacus Brain Gym Indonesia sebagai lembaga pendidikan pertama dan satu-satunya yang menyediakan pelatihan otak tercanggih melalui metode pembelajaran sempoa yang paling efektif, sesi brain gym (senam otak), dan sesi character building (pembangunan karakter) melalui story telling (cerita).
 </p>
+</div>
+
+
+               
                     
-                  </div>
-                  <!-- single blog nex & prev button -->
-                  <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
               </div>
               <!-- end blog archive  -->
               <!-- start related post -->
-              <div class="related_post">
-                <h2>More Events</h2>
-                <div class="row">
-                  <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="single_blog_archive wow fadeInUp">
-                      <div class="blogimg_container">
-                        <a class="blog_img" href="#">
-                          <img src="img/blog.jpg" alt="img">
-                        </a>
-                      </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                      <div class="blog_commentbox">
-                        <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                        <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
-                      </div>
-                      <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                      <a href="#" class="blog_readmore">Read More</a>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="single_blog_archive wow fadeInUp">
-                      <div class="blogimg_container">
-                        <a class="blog_img" href="#">
-                          <img src="img/blog.jpg" alt="img">
-                        </a>
-                      </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                      <div class="blog_commentbox">
-                        <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                        <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
-                      </div>
-                      <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                      <a href="#" class="blog_readmore">Read More</a>
-                    </div>
-                  </div>
-                </div> 
-              </div> 
+             
               <!-- start related post -->           
             </div>
           </div>
@@ -185,7 +146,7 @@ include 'sidebar.php';
     <footer id="footer">
       <!-- Start footer top area -->
       <?php
-include 'footer.php';
+        include("footer.php");
       ?>
       <!-- End footer bottom area -->
     </footer>
@@ -217,10 +178,11 @@ include 'footer.php';
    
     <!-- Custom js-->
     <script src="js/custom.js"></script>
-    <!--=============================================== 
+
+  <!--=============================================== 
     Template Design By WpFreeware Team.
     Author URI : http://www.wpfreeware.com/
-    ====================================================-->
-
+  ====================================================-->
+  
   </body>
 </html>

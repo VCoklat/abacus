@@ -9,7 +9,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>WpF Degree : Blog Single</title>
+     <title>WpF Degree : Blog Archive</title>
 
     <!-- Mobile Specific Metas
     ================================================== -->
@@ -61,18 +61,18 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-     <header id="header">
+    <header id="header">
       <!-- BEGIN MENU -->
-    <?php
-include("header.php");
-    ?>
+      <?php
+        include("header.php");
+      ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Fasilitas</h2>
+      <h2>Testimoni</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -85,44 +85,69 @@ include("header.php");
             <div class="courseArchive_content">
               <!-- start blog archive  -->
               <div class="row">
-                <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
-                  <div class="single_blog">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
-                        <img alt="img" src="img/blog.jpg">
-                      </a>
-                    </div>
-                    <h2 class="blog_title"><a href="blog-single.html"> Company Profile</a></h2>     
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni.php">Nina Wilson, Parent of ABG's student</a></h2>
                     
-                    <p>
-<h2>Fasilitas<h2>
-<p style="size: 10px;font-weight: normal;">
-Abacus Brain Gym Indonesia menyediakan fasilitas-fasilitas berkualitas tinggi untuk menjamin kualitas pengajaran dan pelayanan.<br><br>
-<font style="font-weight: bold">1.Tenaga pengajar yang disiplin, ramah, berkompeten, dan bersertifikat.</font><br>
-Seluruh tenaga pengajar akan diseleksi dengan ketat. Kemudian, tenaga pengajar yang lolos akan mendapatkan pelatihan intensif dan diuji kemampuannya sebelum mendapatkan sertifikat. Kualitas pengajaran seluruh tenaga pengajar akan dipantau kualitas pengajarannya secara berkala.<br><br>
-<font style="font-weight: bold">2.Front desk officer (FDO) yang ramah dan kompeten</font>
-<br>
-Seluruh FDO akan diseleksi dengan ketat. Kemudian, FDO yang lolos akan mendapatkan pelatihan intensif dan dipantau kualitas pelayanannya secara berkala.
-<br><br>
-<font style="font-weight: bold">3.Sistem support software </font>
-<br>
-Apabila murid dan orang tua memiliki pertanyaan atau masalah dengan software Abacus Explorer, tim support software akan selalu siap membantu dan menjawab pertanyaan yang diberikan dalam waktu maksimal 2 x 24 jam.<br><br>
-<font style="font-weight: bold">4.Ruang kelas yang nyaman dan kondusif</font><br>
-Ruang kelas ber-AC dengan kapasitas minimum 8 siswa, dilengkapi dengan sebuah laptop / komputer, speaker, papan tulis, dan sempoa guru.
-<br><br>
-</p>
-</p>
-               
-                    
+                    <p class="blog_summary">“My name is Nina Wilson. I am a National Board Certified teacher with over a decade...</p>
+                    <a class="blog_readmore" href="testimoni.php">Read More</a>
                   </div>
                 </div>
-                <!-- End single blog -->                
+                <!-- start single blog archive -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni2.php">Smita & Subrat Sahoo, Parents of ABG's student</a></h2>
+                    <p class="blog_summary">“ We are grateful to your contribution and dedication to improve subham's overall...</p>
+                    <a class="blog_readmore" href="testimoni2.php">Read More</a>
+                  </div>
+                </div>
+                <!-- start single blog archive -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni3.php">Rina & Pankaj Gajjar, Parents of ABG's student</a></h2>
+                    <p class="blog_summary">“We are really glad to have signed Neal up for the brain training at Abacus...</p>
+                    <a class="blog_readmore" href="testimoni3.php">Read More</a>
+                  </div>
+                </div>
+                <!-- start single blog archive -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni4.php">Nicholas Liu - Age 11</a></h2>
+                    <p class="blog_summary">In First Grade, I was the smartest math student in the class, but I...</p>
+                    <a class="blog_readmore" href="testimoni4.php">Read More</a>
+                  </div>
+                </div>
+                <!-- start single blog archive -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni5.php">Rayhan Chang - Age 13</a></h2>
+                    <p class="blog_summary">When people ask me how I memorize a twenty-five page concerto in a very short...</p>
+                    <a class="blog_readmore" href="testimoni5.php">Read More</a>
+                  </div>
+                </div>
+                <!-- start single blog archive -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog_archive wow fadeInUp">
+                    <h2 class="blog_title"><a href="testimoni6.php">Kara Li - Age 10</a></h2>
+                    <p class="blog_summary">The Abacus Brain Study program helps you everywhere, especially in school. You...</p>
+                    <a class="blog_readmore" href="testimoni6.php">Read More</a>
+                  </div>
+                </div>
+                <!-- start single blog archive -->
+                <!-- end -->
               </div>
               <!-- end blog archive  -->
-              <!-- start related post -->
-             
-              <!-- start related post -->           
+              <!-- <nav>
+                <ul class="pagination wow fadeInLeft">
+                  <li><a href="#"><span aria-hidden="true">«</span><span class="sr-only">Previous</span></a></li>
+                  <li><a href="#">1</a></li>
+                  <li><a href="#">2</a></li>
+                  <li><a href="#">3</a></li>
+                  <li><a href="#">4</a></li>
+                  <li><a href="#">5</a></li>
+                  <li><a href="#"><span aria-hidden="true">»</span><span class="sr-only">Next</span></a></li>
+                </ul>
+              </nav> -->
             </div>
           </div>
           <!-- End course content -->
@@ -179,11 +204,11 @@ include 'sidebar.php';
    
     <!-- Custom js-->
     <script src="js/custom.js"></script>
+    
+    <!--=============================================== 
+      Template Design By WpFreeware Team.
+      Author URI : http://www.wpfreeware.com/
+    ====================================================-->
 
-  <!--=============================================== 
-    Template Design By WpFreeware Team.
-    Author URI : http://www.wpfreeware.com/
-  ====================================================-->
-  
   </body>
 </html>

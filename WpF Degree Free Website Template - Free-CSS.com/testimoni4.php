@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -51,6 +53,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+ pre{
+    white-space: pre-wrap;
+    word-break: keep-all; /*this stops the word breaking*/
+    font-family: 'Varela', sans-serif;
+    font-size: 20px;
+}
+
+</style>
   </head>
   <body> 
 
@@ -63,14 +74,14 @@
       <!-- BEGIN MENU -->
      <?php
 include 'header.php';
-     ?>
+             ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Artikel</h2>
+      <h2>Testimoni</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -95,28 +106,24 @@ include 'header.php';
                       </div>
                     </div>
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Fakta Menarik tentang Otak</a></h2>
-                    <div class="blog_commentbox">
-                    <!--   <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
-                    </div>
-                    <p>
-<font style="font-weight: bold">Timing is certainly critical!</font><br>
-Pengukuran tentang aktifitas otak menunjukan bahwa anak pada umur 6-10 tahun, prefrontal cortex, dan logika mereka berkembang dengan sangat pesat, sehingga akan menghabiskan energi kira kira 2x lebih banyak dari orang dewasa.
-<br><br>
-<font style="font-weight: bold">“Use it or Lose it"  </font><br>
-Kurangnya stimulasi otak yang tepat selama tahun-tahun perkembangan anak memiliki dampak negatif yang signifikan terhadap kemampuan kognitif anak-anak dan berkorelasi dengan penurunan kinerja otak di kemudian hari.
-<br><br>
-<font style="font-weight: bold">Math Anxiety</font><br>
-Menggunakan kalkulator bisa membatasi kemampuan memori jangka pendek seseorang yang digunakan untuk menyelesaikan soal matematika yang kompleks. Soal matematika yang kompleks membutuhkan kemampuan memori jangka pendek yang khusus yang biasanya tidak kita perlukan saat mengerjakan soal aritmatika sederhana, karena soal matematika yang rumit biasanya melibatkan kegiatan seperti membawa, meminjam, dan menyimpan angka. Kegiatan ini membutuhkan kemampuan ingatan jangka pendek yang baik. <br><br>
-Selain mengurangi kemampuan memori jangka pendek seseorang, penggunaan kalkulator juga bisa meningkatkan kecemasan seseorang pada matematika. Hal ini dapat memperburuk kinerja otak seseorang melalui 2 cara. Pertama, orang tersebut akan menghindari mempelajari pelajaran tersebut, sehingga menurunkan kompetensi orang tersebut. Kedua, karena ada pemikiran yang mengganggu, maka kapasistas memori untuk bekerja akan terhambat. 
-</p>
-                    
+                    <h2 class="blog_title"><a href="testimoni4.php">Nicholas Liu - Age 11</a></h2>
+                   
+                    <pre>
+In First Grade, I was the smartest math student in the class, but I was really slow. One day in math class, we all had to do a MAD MINUTE to see how many simple adding problems can be completed in a minute. I used my fingers to count and the minute went by and I had only completed ten out of the thirty.
+
+My parents heard of Abacus Brain Study of Texas at a party. They enrolled me right when I started second grade. The first and second lessons of Abacus Brain Gym were so easy, that I was motivated to move on. In one of our Second Grade math times, the class was required to complete a thirty problem addition MAD MINUTE. The maximum possible answer was 18. I barely finished in the minute.
+
+I still stayed in Abacus Brain Gym, even in Fourth Grade because I wanted to keep challenging myself every Grade. Abacus really has improved me since First Grade. By Fourth Grade, I was in Abacus Grade 6. I enjoy math, which keeps me moving in Abacus. Mrs. Bonnickson, the Fourth Grade teacher had the class do a 30 question MAD MINUTE with 20 as the highest possible answer in addition. I finished with 12 seconds sparing.
+
+In Fifth Grade, I was Abacus Grade 4, when my TAG (Talented and Gifted) teacher had us do, yet another MAD MINUTE with 30 problems. No one, except Trevor Sawires and I completed. I had a long time to rest because of my speed. The MAD MINUTEs were getting harder and harder. The second challenge was made up of 40 MAD MINUTE problems. I again completed with 12 seconds left. Trevor barely made it. The third and last challenge was a 50 problem MAD MINUTE which I barely completed, leaving Trevor 2 short.  I win.
+
+You should try abacus too, for a challenge. Abacus covers Addition, subtraction, multiplication, and division. When you are good enough, you won’t need an abacus anymore. You can imagine an abacus ‘in your head’. This is called ‘image’. The left side of your brain controls your knowledge. The vise-versa side controls imagination. To link the physical abacus to imaginary objects, created the image abacus, the abacus that uses both side of your brain, linking them for Ultimate Brain Power. I highly recommend Abacus Brain Study if you want to become a genius.
+</pre>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Testimoni</a>
+                    <a class="next_post wow fadeInRight" href="#">Next Testimoni<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -186,7 +193,7 @@ include 'sidebar.php';
       <!-- Start footer top area -->
       <?php
 include 'footer.php';
-      ?>
+             ?>
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 

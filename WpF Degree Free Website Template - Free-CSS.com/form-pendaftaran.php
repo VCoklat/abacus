@@ -73,7 +73,7 @@ include 'header.php';
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2></h2>
+      <h2>Form Pendaftaran</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     

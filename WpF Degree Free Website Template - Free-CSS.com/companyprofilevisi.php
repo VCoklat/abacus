@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <!--=============================================== 
-    Template Design By WpFreeware Team.
-    Author URI : http://www.wpfreeware.com/
-  ====================================================-->
-
+    <!--=============================================== 
+      Template Design By WpFreeware Team.
+      Author URI : http://www.wpfreeware.com/
+    ====================================================-->
     <!-- Basic Page Needs
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>WpF Degree : Contact</title>
+     <title>WpF Degree : Blog Single</title>
 
     <!-- Mobile Specific Metas
     ================================================== -->
@@ -62,89 +61,89 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-       <header id="header">
+     <header id="header">
       <!-- BEGIN MENU -->
-      <?php
+    <?php
 include("header.php");
-      ?>
+    ?>
       <!-- END MENU -->    
     </header>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>FAQ</h2>
+      <h2>Company Profile</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
-    <!--=========== BEGIN CONTACT SECTION ================-->
-    <section id="contact">
+    <!--=========== BEGIN COURSE BANNER SECTION ================-->
+    <section id="courseArchive">
       <div class="container">
-       <div class="row">
-          <div class="col-lg-12 col-md-12"> 
-            <div class="title_area">
-              <h2 class="title_two">FAQ Form</h2>
-              <span></span> 
-              <p>Abacus Brain Gym merupakan pelatihan otak tercanggih untuk anak usia 4-12 tahun melalui pembelajaran metode sempoa, dilengkapi dengan sesi brain gym (senam otak) dan character building (pembangunan karakter) melalui story telling (cerita), yang telah terbukti efektif.</p>
+        <div class="row">
+          <!-- start course content -->
+          <div class="col-lg-8 col-md-8 col-sm-8">
+            <div class="courseArchive_content">
+              <!-- start blog archive  -->
+              <div class="row">
+                <!-- start single blog -->
+                <div class="col-lg-12 col-12 col-sm-12">
+                  <div class="single_blog">
+                    <div class="blogimg_container">
+                      <a href="#" class="blog_img">
+                        <img alt="img" src="img/blog.jpg">
+                      </a>
+                    </div>
+                    <h2 class="blog_title"><a href="blog-single.html"> Company Profile</a></h2>
+                 
+                    <p style="border:1px solid black">
+                    <h2>Visi dan Misi</h2><br>
+<h3>Visi</h3>
+            <blockquote>
+                      <span class="fa fa-quote-left"></span>
+                      Menciptakan anak CERDAS, BAIK dan SEHAT dengan memaksimalkan potensi terbaik otak anak untuk menjadi generasi terbaik
+                    </blockquote>
+<br>
+<h3>Misi</h3>
+<li>Menciptakan inovasi yang paling efektif dalam pembelajaran sempoa dengan metode Abacus Brain Gym</li>
+<li>Mewujudkan generasi bangsa yang cerdas, mandiri, jujur, unggul, percaya diri, inovatif, kreatif, dan mampu menjadi pemimpin</li>
+<li>Mencerdaskan otak anak secara keseluruhan melalui pembelajaran sempoa, brain gym (senam otak), dan wisdom factors atau character building (pembangunan karakter)</li>
+<li>Menggunakan teknologi komputer dalam pelatihan untuk mencapai hasil yang lebih cepat dan juga turut berpartisipasi dalam aksi Go Green (paper less)</li>
+<li>Membuka kesempatan usaha bagi insan yang peduli untuk menciptakan generasi yang berkualitas bagi pembangunan bangsa</li></p>
+                    
+                  </div>
+                </div>
+                <!-- End single blog -->                
+              </div>
+              <!-- end blog archive  -->
+              <!-- start related post -->
+             
+              <!-- start related post -->           
             </div>
           </div>
-       </div>
-       <div class="row">
-         <div class="col-lg-8 col-md-8 col-sm-8">
-           <div class="contact_form wow fadeInLeft">
-              <form class="submitphoto_form">
-                <input type="text" class="wp-form-control wpcf7-text" placeholder="Nama Lengkap">
-                <input type="mail" class="wp-form-control wpcf7-email" placeholder="Alamat E-mail">          
-                <input type="text" class="wp-form-control wpcf7-text" placeholder="Nomor yang dapat dihubungi">
-                <textarea class="wp-form-control wpcf7-textarea" cols="30" rows="10" placeholder="Pertanyaan"></textarea>
-                <input type="submit" value="Submit" class="wpcf7-submit">
-              </form>
-           </div>
-         </div>
-         <div class="col-lg-4 col-md-4 col-sm-4">
-           <div class="contact_address wow fadeInRight">
-             <h3>Address</h3>
-             <div class="address_group">
-               <p>Villa Melati Mas Blok U-8 nomor 23<br>Serpong, Tangerang Selatan, Banten, 15310</p>
-<p>Telp   : 0858-1488-2020</p>
-<p>Email   : headquarter@abacusbraingymindonesia.com</p>
-<p>Fanpage : abacusbraingymID</p>
-<p>Instagram : abacusbraingym</p>
-<p>Youtube : Abacus Brain Gym</p>
-             </div>
-           </div>
-         </div>
-       </div>
+          <!-- End course content -->
+
+          <!-- start course archive sidebar -->
+          <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="courseArchive_sidebar">
+              <!-- start single sidebar -->
+            <?php
+include 'sidebar.php';
+             ?>
+              <!-- End single sidebar -->
+            </div>
+          </div>
+          <!-- start course archive sidebar -->
+        </div>
       </div>
     </section>
-    <!--=========== END FAQ SECTION ================-->
+    <!--=========== END COURSE BANNER SECTION ================-->
     
     <!--=========== BEGIN FOOTER SECTION ================-->
     <footer id="footer">
       <!-- Start footer top area -->
       <?php
-include("footer.php");
+        include("footer.php");
       ?>
-      </footer>
-      <!-- End footer top area -->
-
-      <!-- Start footer bottom area -->
-   <!--    <div class="footer_bottom">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="footer_bootomLeft">
-                <p> Copyright &copy; All Rights Reserved</p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="footer_bootomRight">
-                <p>Designed by <a href="http://wpfreeware.com/" rel="nofollow">Wpfreeware.com</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
       <!-- End footer bottom area -->
     </footer>
     <!--=========== END FOOTER SECTION ================--> 
@@ -175,10 +174,11 @@ include("footer.php");
    
     <!-- Custom js-->
     <script src="js/custom.js"></script>
+
   <!--=============================================== 
     Template Design By WpFreeware Team.
     Author URI : http://www.wpfreeware.com/
   ====================================================-->
-
+  
   </body>
 </html>
