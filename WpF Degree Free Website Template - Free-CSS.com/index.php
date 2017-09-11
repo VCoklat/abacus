@@ -76,16 +76,17 @@
         <div class="col-lg-12 col-md-12">
           <div class="slider_area">
             <!-- Start super slider -->
-            <div id="slides" >
+          <!--   <div id="slides" >
               <ul class="slides-container">                          
-                <li>
-                  <img height="50" src="http://abacusbraingym.com/video-gallery/photo/ewExternalFiles/Math-Banner-2.gif" alt="img">
+                <li> -->
+                
+                  <img height="50" src="http://abacusbraingym.com/video-gallery/photo/ewExternalFiles/Math-Banner-2.gif" alt="img" class="slidess" style="width: 100%;height: 100px;">
                    <!-- <div class="slider_caption">
                     <h2>Largest & Beautiful University</h2>
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                     <a class="slider_btn" href="#">Know More</a>
                   </div> -->
-                  </li>
+                  <!-- </li> -->
                 <!-- Start single slider-->
                 <!-- <li>
                   <img src="img/slider/3.jpg" alt="img"> -->
@@ -96,22 +97,41 @@
                   </div> -->
                 <!-- </li> -->
                 <!-- Start single slider-->
-                <li>
-                  <img src="http://abacusbraingym.com/video-gallery/photo/ewExternalFiles/Best%20Abacus%20Math-1.jpg" alt="img">
+                <!-- <li> -->
+                  <img src="http://abacusbraingym.com/video-gallery/photo/ewExternalFiles/Best%20Abacus%20Math-1.jpg" alt="img" class="slidess" style="width: 100%;height: 100px;">
                    <!-- <div class="slider_caption">
                     <h2>Find out you in better way</h2>
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
                     <a class="slider_btn" href="#">Know More</a>
                   </div> -->
-                </li>
+                <!-- </li> -->
+            
+                <script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("slidess");
+
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
               </ul>
-              <nav class="slides-navigation">
+    <!--           <nav class="slides-navigation">
                 <a href="#" class="next"></a>
                 <a href="#" class="prev"></a>
-              </nav>
+     -->          </nav>
             </div>
-          </div>
-        </div>
+          <!-- </div>
+        </div> -->
       </div>
     </section>
     <!--=========== END SLIDER SECTION ================-->
