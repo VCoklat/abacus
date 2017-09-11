@@ -10,7 +10,7 @@
               </button>
               <!-- LOGO -->
               <!-- TEXT BASED LOGO -->
-              <a class="navbar-brand" href="index.html">Abacus <span>Brain Gym</span><br><span style="margin-top: 5px;color: red">Indonesia </span></a>              
+              <a class="navbar-brand" href="index.php">Abacus <span>Brain Gym</span><br><span style="margin-top: 5px;color: red">Indonesia </span></a>              
               <!-- IMG BASED LOGO  -->
                <!-- <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"></a>  -->            
                      

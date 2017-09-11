@@ -150,7 +150,7 @@ function carousel() {
         <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="newsfeed_area wow fadeInRight">
             <ul class="nav nav-tabs feed_tabs" id="myTab2">
-              <li class="active"><a href="#news" data-toggle="tab">News</a></li>
+              <li class="active"><a href="#news" data-toggle="tab">Article</a></li>
               <!-- <li><a href="#notice" data-toggle="tab">Notice</a></li> -->
               <li><a href="#events" data-toggle="tab">Events</a></li>         
             </ul>
@@ -162,42 +162,42 @@ function carousel() {
                 <ul class="news_tab">
                   <li>
                     <div class="media">
-                      <div class="media-left">
+                     <!--  <div class="media-left">
                         <a class="news_img" href="#">
                           <img class="media-object" src="img/news.jpg" alt="img">
-                        </a>
+                        </a> -->
                       </div>
                       <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
+                       <a href="artikelperbedaan.php">PERBEDAAN ABG DENGAN PEMBELAJARAN SEMPOA LAINYA</a>
+                       <!-- <span class="feed_date">27.02.15</span> -->
                       </div>
-                    </div>                    
+                    <!-- </div>   -->                  
                   </li>
                   <li>
                     <div class="media">
                       <div class="media-left">
-                        <a class="news_img" href="#">
+                       <!--  <a class="news_img" href="#">
                           <img class="media-object" src="img/news.jpg" alt="img">
-                        </a>
+                        </a> -->
                       </div>
                       <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>
-                      </div>
+                       <a href="artikelgelombangmanakahyangterbaik.php">GELOMBANG OTAK MANAKAH YANG TERBAIK?</a>
+                       <!-- <span class="feed_date">28.02.15</span> -->
+                      <!-- </div> -->
                     </div>
                   </li>
                   <li>
                     <div class="media">
                       <div class="media-left">
-                        <a class="news_img" href="#">
+                        <!-- <a class="news_img" href="#">
                           <img class="media-object" src="img/news.jpg" alt="img">
-                        </a>
+                        </a> -->
                       </div>
                       <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>
+                       <a href="artikelmenarik.php">FAKTA MENARIK TENTANG OTAK</a>
+                       <!-- <span class="feed_date">28.02.15</span> -->
                       </div>
-                    </div>
+                    <!-- </div> -->
                   </li>
                 </ul>                
                 <a class="see_all" href="artikels.php">See All</a>
