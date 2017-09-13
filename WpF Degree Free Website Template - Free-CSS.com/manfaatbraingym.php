@@ -89,13 +89,13 @@
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog">
                     <!-- start events slider -->
-                    <div class="events_slider_area">
+                   <!--  <div class="events_slider_area">
                       <div class="events_slider">
                         <div><img src="img/events-slider3.jpg" alt="img"></div>
                         <div><img src="img/events-slider1.jpg" alt="img"></div>
                         <div><img src="img/events-slider2.jpg" alt="img"></div>
                       </div>
-                    </div>
+                    </div> -->
                     <!-- End events slider -->
                     <h2 class="blog_title"><a href="blog-single.html">Manfaat Brain Gym</a></h2>
                    

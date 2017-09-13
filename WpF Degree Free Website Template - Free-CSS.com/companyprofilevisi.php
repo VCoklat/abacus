@@ -100,7 +100,7 @@ include("header.php");
 <h3>Visi</h3>
             <blockquote>
                       <span class="fa fa-quote-left"></span>
-                      Menciptakan anak CERDAS, BAIK dan SEHAT dengan memaksimalkan potensi terbaik otak anak untuk menjadi generasi terbaik
+                      Menciptakan anak CERDAS, BAIK dan SEHAT dengan memaksimalkan potensi terbaik otak anak untuk menjadi generasi terbaik<span class="fa fa-quote-right"></span>
                     </blockquote>
 <br>
 <h3>Misi</h3>

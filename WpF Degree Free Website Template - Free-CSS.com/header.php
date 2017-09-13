@@ -10,13 +10,13 @@
               </button>
               <!-- LOGO -->
               <!-- TEXT BASED LOGO -->
-              <a class="navbar-brand" href="index.php">Abacus <span>Brain Gym</span><br><span style="margin-top: 5px;color: red">Indonesia </span></a>              
+              <a class="navbar-brand" href="index.php"> <img style="width: 50px;height: 50px; float: left;" src="img/logoabacus.png"><span> Abacus</span> <span>Brain Gym</span><br><span style="margin-top: 5px;color: red">Indonesia </span></a>              
               <!-- IMG BASED LOGO  -->
                <!-- <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"></a>  -->            
                      
             </div>
             <div id="navbar" class="navbar-collapse collapse">
-              <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
+              <ul id="top-menu" class="nav navbar-nav navbar-right main-nav" style="font-size: 12px">
                 <li class="active"><a href="index.php">Home</a></li>
   <!-- blog-archive.html -->
                 <li>
@@ -35,9 +35,9 @@
                     </li>
                     <li><a href="#">ABG Method</a>
                     <ul>
-                      <li><a href="sempoalist.php">Metode Sempoa</a></li>   
-                      <li><a href="senamotaklist.php">Senam otak</a></li>   
-                      <li><a href="CBlist.php">Pembangunan Karakter</a></li>   
+                      <li><a href="pembelajaransempoa.php">Metode Sempoa</a></li>   
+                      <li><a href="apaitubraingym.php">Senam otak</a></li>   
+                      <li><a href="CB.php">Pembangunan Karakter</a></li>   
                       </ul>           
                        </li>
                        <li><a href="artikel-fasilitas.php">Facility</a></li>       
@@ -59,12 +59,8 @@
                 <li><a href="lokasi.php">Lokasi</a></li>        
                 
                 <li><a href="contact.php">Hubungi Kami</a></li>
-                <li style="width: 80px"><a href="#">FAQ<span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                      <li><a href="FAQ.php">FAQ</a></li>
-                      <li><a href="FAQ-list.php">List FAQ</a></li>
-                    </ul>
-                </li>             
+                <li><a href="FAQ-list.php">FAQ</a></li>             
+                <li><a href="HallOfFame.php">Hall Of Fame</a></li>             
 
                 <li><a href="form-pendaftaran.php">Daftar Sekarang</a></li>
               </ul>           

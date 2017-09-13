@@ -180,10 +180,7 @@ Selain 10 hal yang telah disebutkan di atas, ada kelebihan lain yang bisa dipero
 </p>
                   </div>
                   <!-- single blog nex & prev button -->
-                  <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
-                  </div>
+                 
                 </div>
                 <!-- End single blog -->                
               </div>

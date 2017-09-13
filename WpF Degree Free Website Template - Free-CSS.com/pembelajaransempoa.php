@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
     <!--=============================================== 
     Template Design By WpFreeware Team.
     Author URI : http://www.wpfreeware.com/
@@ -53,6 +54,16 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+    .artikelmetode{
+  border: 1px solid black;
+  display: block;
+  background-color: white;
+  width: 100%;
+  font-size: 20px;
+  height: 100px;
+}
+</style>
   </head>
   <body> 
 
@@ -77,6 +88,8 @@ include 'header.php';
     <!--=========== END COURSE BANNER SECTION ================-->
     
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
+     
+    
     <section id="courseArchive">
       <div class="container">
         <div class="row">
@@ -88,15 +101,7 @@ include 'header.php';
                 <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog">
-                    <!-- start events slider -->
-                    <div class="events_slider_area">
-                      <div class="events_slider">
-                        <div><img src="img/events-slider3.jpg" alt="img"></div>
-                        <div><img src="img/events-slider1.jpg" alt="img"></div>
-                        <div><img src="img/events-slider2.jpg" alt="img"></div>
-                      </div>
-                    </div>
-                    <!-- End events slider -->
+                  
                     <h2 class="blog_title"><a href="blog-single.html">Pembelajaran Sempoa</a></h2>
                    
                     <p>
@@ -108,54 +113,108 @@ Sebagai tugas di rumah, anak akan mengerjakan PR (homework) dengan menggunakan s
 Setiap 1 (satu) file yang terdiri dari 10 (sepuluh) soal telah selesai dikerjakan, nilai anak akan secara langsung muncul di layar beserta dengan waktu yang dibutuhkan anak untuk menyelesaikan file tersebut. Anak juga dapat melihat nomor soal yang salah dan mengulang soal-soal yang salah tersebut untuk memeriksa kesalahan mereka. Apabila anak mendapat nilai kurang dari 70, anak wajib mengulang kembali file (10 soal) tersebut setelah mengerjakan 5 (lima) file yang lainnya untuk mencegah anak mengingat jawaban sebelumnya. File-file yang telah selesai dikerjakan dapat dikumpulkan melalui fitur ”submit”. Seluruh data PR anak akan diolah dalam Hall of Fame yang menampilkan 50 besar anak yang paling rajin mengerjakan PR, dihitung dari jumlah file yang diselesaikan dan rata-rata nilai anak, selama periode waktu tertentu. Hal ini akan memotivasi anak untuk berlomba-lomba mengerjakan file sebanyak-banyaknya dan sebaik mungkin.
 </p>
                   </div>
-                  <!-- single blog nex & prev button -->
-                  <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                  <div class="single_blog" style="display: none">
+                    
+                    <h3 class="blog_title"><a href="blog-single.html">Apa sajakah manfaat belajar sempoa?
+</a></h3>
+                   
+                    <p>
+                    <div style="margin-left: 20px">
+1.Menyeimbangkan otak kiri dan kanan 
+Saat anak menghitung dengan menggunakan sempoa, otak kiri anak akan terstimulasi. Kemudian, saat anak membayangkan biji-biji sempoa, otak kanan anak akan terstimulasi. Ketika anak berhitung tanpa menggunakan sempoa, atau yang biasa dikenal dengan mental atau bayangan, maka kedua otak anak akan terstimulasi dan bekerja sama. Melalui latihan yang rutin, kedua otak anak akan mencapai keseimbangan.
+<table>
+  <tr style="border: 1px solid black ">
+    <td style="border: 1px solid black"><div style="padding-left:20px;background-color: blue;font-size: 20px;color:white">Otak Kiri</div></td>
+    <td><div style="padding-left: 20px;background-color: blue;font-size: 20px;color: white">Otak Kanan</div></td>
+  </tr>
+<tr style="border: 1px solid black">
+     <td style="border: 1px solid black">
+     <div style="background-color: aqua; padding-left: 20px;padding-right: 10px">
+<li>Logika</li>
+<li>Analisa</li>
+<li>Rasional</li>
+<li>Urutan</li>
+<li>Objektivitas</li>
+<li>Keteraturan</li>
+<li>Bahasa</li>
+<li>Ilmu dan Matematika</li>
+</div>
+    </td>
+    <td style="border: 1px solid black">
+    <div style="padding-left: 20px; background-color: aqua;">
+<li>Intuisi </li>
+<li>Sintesis</li>
+<li>Kreativitas</li>
+<li>Holistik (menyeluruh)</li>
+<li>Subjektivitas</li>
+<li>Acak</li>
+<li>Kata, Angka, dan Simbol</li>
+<li>Seni dan Musik</li>
+</div>
+    </td>
+  </tr>
+</table>
+<br><br>
+2.Memiliki kemampuan belajar yang lebih baik
+<br><br>
+Dengan keadaan otak kanan dan kiri yang seimbang, maka keadaan mental anak juga menjadi lebih tenang. Dalam keadaan mental yang tenang, otak akan lebih mudah dan cepat dalam menerima dan memproses informasi. Hal ini menyebabkan proses belajar anak menjadi lebih efektif dalam waktu yang lebih singkat. Dengan demikian, pembelajaran sempoa tidak hanya memiliki dampak positif pada pelajaran matematika atau eksakta, namun juga pada semua pelajaran.
+<br><br>
+3.Menjadi lebih kreatif
+<br><br>
+Penelitian sains menemukan bahwa saat anak belajar sempoa, pola gelombang otak anak mencapai momen Ah Ha, yakni saat di mana otak akan menemukan ide-ide yang kreatif dan cemerlang. Selain itu, otak anak juga mencapai keseimbangan antara gelombang alfa, beta, dan teta. Keseimbangan ketiga gelombang otak tersebut merupakan pola gelombang yang paling optimal untuk berpikir dan belajar, bukan dominasi dari salah satu gelombang tersebut.
+<br><br>
+4.Meningkatkan daya imajinasi
+<br><br>
+Saat sudah menguasai sempoa dalam bentuk fisik, anak-anak akan berhitung dengan menggunakan metode sempoa dalam bayangan, atau dikenal dengan mental, sehingga secara tidak langsung mereka melatih daya imajinasi mereka dengan membayangkan biji-biji sempoa dan berhitung dengan menggerakan biji-biji sempoa tersebut. Jika seseorang memiliki daya imajinasi yang tinggi, maka anak tersebut dapat berpikir tentang suatu hal dari sudut pandang yang lain atau baru. 
+<br><br>
+5.Membantu anak yang sulit dengan matematika
+<br><br>
+Sudah menjadi rahasia umum, bahwa anak yang belajar dan berlatih metode sempoa secara rutin akan dapat berhitung dengan cepat dan tepat. Hal tersebut sangat membantu anak dalam pelajaran matematika di sekolah. Mereka dapat menyelesaikan soal hitungan dengan cepat, tepat, dan tanpa menggunakan kertas coretan. Pelajaran matematika pun menjadi pelajaran yang mudah dan menyenangkan bagi anak-anak. 
+<br><br>
+6.Meningkatkan kepercayaan diri anak 
+<br><br>
+Seperti yang kita ketahui bahwa pelajaran matematika merupakan salah satu pelajaran yang seringkali dianggap paling sulit dan menakutkan oleh sebagian besar anak anak. Namun, dengan belajar sempoa, anak akan dapat menyelesaikan soal matematika dengan mudah, cepat, dan akurat. Matematika tidak lagi menjadi pelajaran yang sulit dan menakutkan, melainkan mudah dan menyenangkan. Hal ini akan membuat kepercayaan diri anak meningkat pada pelajaran matematika karena mereka bisa melakukan apa yang sebagian besar anak lain tidak bisa. Ketika anak memiliki kepercayaan diri yang tinggi pada pelajaran matematika, mereka juga akan memiliki kepercayaan diri pada pelajaran-pelajaran lainnya karena pelajaran yang dianggap sulit oleh banyak anak saja dapat mereka kuasai dengan mudah.
+<br><br>
+7.Meningkatkan koordinasi antara otak dan tangan 
+<br><br>
+Metode sempoa melibatkan kerja otak dalam berhitung dan mengaplikasikan formula, serta pergerakan tangan saat menggerakan biji sempoa, baik secara fisik maupun bayangan. Dengan demikian, otak akan terbiasa berkoordinasi dan bekerja sama dengan tangan saat berlatih metode sempoa.
+<br><br>
+8.Meningkatkan konsentrasi anak dalam belajar
+<br><br>
+Mengerjakan soal sempoa membutuhkan fokus dan konsentrasi yang cukup tinggi. Anak akan  berhadapan dengan soal yang cukup panjang, sehingga mereka harus fokus dalam membaca soal. Selain itu, saat mengerjakan sempoa, mereka juga perlu berkonsentrasi akan formula mana yang harus digunakan dengan cepat dan tepat. Kemudian, di saat anak telah belajar mental, berhitung tanpa menggunakan sempoa fisik, anak dilatih untuk lebih berkonsentrasi lagi karena mereka harus membayangkan biji-biji sempoa, mengingat dan mengaplikasikan formula dengan cepat dan tepat, serta mengingat posisi terakhir biji sempoa setelah ditambah atau dikurangi suatu angka dengan tepat pada waktu yang bersamaan. Dengan berlatih secara rutin, anak akan terbiasa untuk fokus dan berkonsentrasi dalam belajar maupun dalam melakukan pekerjaan-pekerjaan lainnya.  
+<br><br>
+9.Meningkatkan daya ingat
+<br><br>
+Setelah kedua otak terstimulasi secara rutin, neuron-neuron dalam otak akan bekerja dengan lebih cepat dan optimal. Sinapsis yang terbentuk dalam otak pun semakin banyak, sehingga proses pengiriman dan pengolahan informasi akan menjadi lebih cepat. Informasi-informasi yang penting akan lebih cepat dan mudah untuk dihantarkan ke long-term memory dan diambil kembali saat dibutuhkan. 
+<br><br>
+Selain itu, dengan berlatih metode mental, anak juga terbiasa berlatih mengingat formula dan posisi biji sempoa dengan cepat dalam pikiran mereka, sehingga daya ingat mereka akan meningkat dari waktu ke waktu melalui latihan yang rutin.
+<br><br>
+10.Mampu bekerja di bawah tekanan
+<br><br>
+Dalam belajar sempoa, anak akan diberikan batas waktu untuk mengerjakan sejumlah soal. Dengan demikian, anak akan mengerjakan soal dengan dipacu oleh waktu. Hal ini memacu otak mereka terbiasa bekerja dengan baik di bawah tekanan.
+</div>
+<br><br>
+Selain 10 hal yang telah disebutkan di atas, ada kelebihan lain yang bisa diperoleh dari mempelajari sempoa dengan mengunakan metode Abacus Brain Gym, yaitu meningkatkan dan mempertajam kemampuan pendengaran seseorang. Hal ini terjadi karena sistem pembelajaran Abacus Brain Gym tidak hanya menggunakan mode membaca soal saja dalam latihan sempoa, melainkan juga menggunakan mode listening yang dapat diatur kecepatannya. Anak akan dilatih untuk berhitung dengan sempoa maupun dengan mental dengan mendengarkan soal-soal yang dibacakan, sehingga kemampuan pendengaran mereka akan lebih tajam dan baik. Terlebih mode listening pada software Abacus Explorer menggunakan bahasa Inggris, sehingga secara tidak langsung anak akan berlatih mendengarkan dalam bahasa Inggris walaupun hanya dalam bentuk angka dan kalimat sederhana.  
+</p>
                   </div>
+                  <div class="single_blog" style="display:none">
+                   
+                    <h2 class="blog_title"><a href="blog-single.html">Sejarah Sempoa</a></h2>
+                   
+                    <p>
+Sempoa, atau yang dikenal juga dengan sebutan swipoa atau dekak-dekak, adalah alat kuno untuk berhitung yang dibuat dari rangka kayu dengan sederetan poros berisi manik-manik yang bisa digeser. Sempoa dapat digunakan untuk melakukan operasi aritmetika seperti penjumlahan, pengurangan, perkalian, pembagian, desimal dan akar kuadrat.<br><br>
+Sempoa telah digunakan berabad-abad sebelum dikenalnya sistem bilangan Hindu Arab dan sampai sekarang masih digunakan pedagang di berbagai belahan dunia, seperti di Tiongkok.<br><br>
+Sempoa sering digunakan sebagai alat hitung bagi tuna netra karena manik-manik pada sempoa dapat dengan mudah dirasakan dengan jari-jari. Sehelai kain lembut atau selembar karet biasanya diletakkan di bawah sempoa untuk mencegah manik-manik bergerak secara tidak sengaja.<br><br>
+Asal-usul sempoa sebenarnya belum diketahui secara pasti karena banyak alat hitung yang serupa dengan sempoa yang dikenal di berbagai kebudayaan di dunia. Konon sempoa sudah ada di Babilonia dan di Tiongkok sekitar tahun 2400 SM dan 300 SM. Orang zaman kuno menghitung dengan membuat garis-garis dan meletakkan batu-batu di atas pasir yang merupakan bentuk awal dari berbagai macam variasi sempoa.<br><br>
+Dalam bahasa Inggris, sempoa dikenal dengan nama abacus. Penggunaan kata abacus sudah dimulai sejak tahun 1387, meminjam kata dalam bahasa Latin abakos yang berasal dari kata abax yang dalam bahasa Yunani berarti "tabel perhitungan." Dalam bahasa Yunani, kata abax juga berarti tabel untuk menggambar bentuk-bentuk geometris di atas debu atau pasir. Ahli linguistik berspekulasi bahwa kata abax berasal dari kata ābāq yang dalam bahasa Ibrani yang berarti "debu." Pendapat lain mengatakan abacus berasal dari kata abak yang dalam keluarga bahasa Fenisia berarti "pasir."(https://id.wikipedia.org/wiki/Sempoa)<br><br>
+Sempoa telah menjadi pilihan banyak orang  untuk membantu menghitung angka di negara-negara Asia sejak ratusan tahun lalu. Alat ini masih digunakan sampai sekarang karena kesederhanaan dan keefektifannya. Selain untuk menghitung, alat ini juga dapat membantu perkembangan dan meningkatkan kemampuan otak seseorang. Dengan menggunakan alat ini, kita juga dapat menyelesaikan soal hitungan lebih cepat daripada menggunakan kalkulator.  
+</p>
+                  </div>
+                 
                 </div>
                 <!-- End single blog -->                
               </div>
-              <!-- end blog archive  -->
-              <!-- start related post -->
-              <div class="related_post">
-                <h2>More Events</h2>
-                <div class="row">
-                  <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="single_blog_archive wow fadeInUp">
-                      <div class="blogimg_container">
-                        <a class="blog_img" href="#">
-                          <img src="img/blog.jpg" alt="img">
-                        </a>
-                      </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                      <div class="blog_commentbox">
-                        <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                        <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
-                      </div>
-                      <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                      <a href="#" class="blog_readmore">Read More</a>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="single_blog_archive wow fadeInUp">
-                      <div class="blogimg_container">
-                        <a class="blog_img" href="#">
-                          <img src="img/blog.jpg" alt="img">
-                        </a>
-                      </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                      <div class="blog_commentbox">
-                        <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                        <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
-                      </div>
-                      <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                      <a href="#" class="blog_readmore">Read More</a>
-                    </div>
-                  </div>
-                </div> 
-              </div> 
-              <!-- start related post -->           
+                        
             </div>
           </div>
           <!-- End course content -->
@@ -164,12 +223,14 @@ Setiap 1 (satu) file yang terdiri dari 10 (sepuluh) soal telah selesai dikerjaka
           <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
-             <?php
-include 'sidebar.php';
-             ?>
-              <!-- End single sidebar -->
+            <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red">Pembelajaran Sempoa</button> 
+            <button onclick="klikini(1)"  class="artikelmetode">Apa Sajakah Manfaat Belajar Metode Sempoa</button>
+            <button onclick="klikini(2)"  class="artikelmetode">Sejarah Sempoa</button>
+          
+          
             </div>
           </div>
+ 
           <!-- start course archive sidebar -->
         </div>
       </div>
@@ -221,4 +282,20 @@ include 'footer.php';
     ====================================================-->
 
   </body>
+<script type="text/javascript">
+            var x =1;
+            function klikini(x){
+             
+              var data=  document.getElementsByClassName("single_blog");
+              var data2 = document.getElementsByClassName("artikelmetode");
+              for (var i = 0; i < data.length; i++) {
+                  data[i].style.display = "none";           
+                              }
+              for (var i = 0; i < data2.length; i++) {
+                   data2[i].style.background = "white";           
+                  }             
+                data[x].style.display = "block";
+                data2[x].style.background = "red";
+            }
+          </script>
 </html>

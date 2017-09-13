@@ -89,7 +89,7 @@
       <div class="container">
         <div class="row">
           <!-- start course content -->
-          <div class="col-lg-8 col-md-8 col-sm-8">
+          <div class="col-lg-8 col-md-8 col-sm-8" >
             <div class="courseArchive_content">
               <!-- start blog archive  -->
               <div class="row">
@@ -194,14 +194,24 @@ A: Program ABG dibagi menjadi 10 level dari pejumlahan dan pengurangan satu digi
 
           <!-- start course archive sidebar -->
           <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="courseArchive_sidebar">
+            <div class="courseArchive_sidebar" >
               <!-- start single sidebar -->
-          <?php
-include 'sidebar.php';
-             ?>
+             <p>
+              Jika anda memiliki pertanyaan lain, Anda dapat mengisi form di bawah ini:
+              <form class="submitphoto_form">
+                <input type="text" class="wp-form-control wpcf7-text" style="border: 1px solid yellow" placeholder="Nama Lengkap">
+                <input type="mail" class="wp-form-control wpcf7-email" placeholder="Alamat E-mail" style="border: 1px solid yellow">          
+                <input type="text" class="wp-form-control wpcf7-text" placeholder="Nomor yang dapat dihubungi" style="border: 1px solid yellow">
+                <textarea class="wp-form-control wpcf7-textarea" cols="30" rows="10" placeholder="Pertanyaan" style="border: 1px solid yellow"></textarea>
+                <input type="submit" value="Submit" class="wpcf7-submit">
+              </form>
+            </p>
               <!-- End single sidebar -->
             </div>
           </div>
+         
+            
+    
           <!-- start course archive sidebar -->
         </div>
       </div>

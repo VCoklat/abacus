@@ -53,6 +53,16 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+     <style type="text/css">
+    .artikelmetode{
+  border: 1px solid black;
+  display: block;
+  background-color: white;
+  width: 100%;
+  font-size: 20px;
+  height: 100px;
+}
+</style>
   </head>
   <body> 
 
@@ -87,15 +97,38 @@
               <div class="row">
                 <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
-                  <div class="single_blog">
+                <div class="single_blog">
                     <!-- start events slider -->
-                    <div class="events_slider_area">
+                   <!--  <div class="events_slider_area">
                       <div class="events_slider">
                         <div><img src="img/events-slider3.jpg" alt="img"></div>
                         <div><img src="img/events-slider1.jpg" alt="img"></div>
                         <div><img src="img/events-slider2.jpg" alt="img"></div>
                       </div>
-                    </div>
+                    </div> -->
+                    <!-- End events slider -->
+                    <h2 class="blog_title"><a href="blog-single.html">Pentingnya Character Building</a></h2>
+                   
+                    <p>
+Pada saat usia antara 0-6 tahun, otak berkembang sangat cepat hingga 80 persen dari otak orang dewasa. Pada saat itu, otak anak akan menyerap semua informasi yang masuk, tanpa melihat baik atau buruknya hal tersebut. Itulah masa dimana perkembangan fisik, mental maupun spiritual anak akan mulai terbentuk. Karena itu, banyak yang menyebut masa tersebut sebagai masa-masa emas anak (Golden Age). <br>
+Sebuah penelitian yang dilakukan di AS menemukan bahwa pengalaman anak pada bulan dan tahun pertama kehidupannya sangat menentukan apakah anak ini akan mampu menghadapi tantangan dalam kehidupannya dan apakah ia akan menunjukkan semangat tinggi untuk belajar dan berhasil dalam pekerjaannya. (http://aichildrencare.com/edu-news/74-building-character.html)
+Maka dari itu, orang tua sebaiknya memanfaatkan masa-masa ini untuk memberikan pendidikan karakter yang baik pada anak sehingga anak tesebut bisa meraih keberhasilan dan kesuksesan dimasa yang akan datang. <br>
+Kadang sebagai orang tua, kita tidak sadar sikap yang kita berikan kepada anak justru tidak membangun melainkan menjatuhkan mental si anak. Dengan memukul dan memberikan tekanan pada anak dapat menjadikan anak bersikap negatif, rendah diri, minder, penakut, dan tidak berani mengambil resiko, yang pada akhirnya karakter-karakter tersebut akan dibawanya sampai ia dewasa.<br>
+Saat anak dewasa, karakter semacam itu akan menjadi penghambat baginya dalam meraih dan mewujudkan keinginannya. Misalnya, tidak bisa menjadi seorang public speaker karena ia minder atau malu. Tidak berani mengambil peluang tertentu karena ia tidak mau mengambil resiko dan takut gagal. Padahal, jika dia bersikap positif maka resiko bisa diubah sebagai tantangan untuk meraih keberhasilan.<br>
+Pasti sebagian besar dari kita beranggapan bahwa sukses atau tidaknya seseorang tergantung dari nilai yang dia dapat. Semakin tinggi nilai yang didapat dalam pelajaran semakin sukses anak itu. Padahal fakta membuktikan kebanyakan orang yang sukses tidak memiliki prestasi yang gemilang disekolahnya. Mengapa bisa demikian? Karena sebenarnya kesuksesan itu tidak hanya ditentukan oleh kecerdasan otak seseorang semata. Tetapi kecakapan membangun hubungan emosional  kita dengan diri sendiri, orang lain dan lingkunganlah yang lebih berperan dalam menentukan orang itu sukses atau tidak. Selain itu hubungan spiritual yang tidak boleh dilupakan adalah hubungan spiritual dengan Tuhan Yang Maha Esa. Jadi kita bisa menarik kesimpulan bahwa sebenarnya kunci sukses seseorang ditentukan dengan 3 pilar utama yaitu diri sendiri, sosial, dan Tuhan. Dan sebenarnya karakter-karakter tersebut tidak sepenuhnya bawaan dari lahir seseorang. Karakter seperti ini bisa dibentuk dan dikembangkan.<br>
+Cara membentuk karakter anak sejak dini salah satu caranya dengan memberikan kepercayaan pada anak untuk mengambil keputusan untuk dirinya sendiri, membantu anak mengarahkan potensinya dengan begitu mereka lebih mampu untuk bereksplorasi dengan sendirinya, tidak menekannya baik secara langsung atau secara halus, dan seterusnya. Manfaatkanlah usia emas anak dengan sebaik baiknya!
+
+</p>
+                  </div>
+                  <div class="single_blog">
+                    <!-- start events slider -->
+                    <!-- <div class="events_slider_area">
+                      <div class="events_slider">
+                        <div><img src="img/events-slider3.jpg" alt="img"></div>
+                        <div><img src="img/events-slider1.jpg" alt="img"></div>
+                        <div><img src="img/events-slider2.jpg" alt="img"></div>
+                      </div>
+                    </div> -->
                     <!-- End events slider -->
                     <h2 class="blog_title"><a href="blog-single.html">Character Building </a></h2>
                    
@@ -109,16 +142,16 @@ Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka p
 </p>
                   </div>
                   <!-- single blog nex & prev button -->
-                  <div class="single_blog_prevnext">
+                 <!--  <div class="single_blog_prevnext">
                     <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
                     <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
                   </div>
-                </div>
+ -->                </div>
                 <!-- End single blog -->                
               </div>
               <!-- end blog archive  -->
               <!-- start related post -->
-              <div class="related_post">
+              <!-- <div class="related_post">
                 <h2>More Events</h2>
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-sm-6">
@@ -154,7 +187,7 @@ Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka p
                     </div>
                   </div>
                 </div> 
-              </div> 
+              </div>  -->
               <!-- start related post -->           
             </div>
           </div>
@@ -164,9 +197,10 @@ Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka p
           <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
-              <?php
-include 'sidebar.php';
-             ?>
+              <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red">Pentingnya Character Building</button> 
+            <button onclick="klikini(1)"  class="artikelmetode"> Apa saja Manfaat Belajar Character Building</button>
+            
+          
               <!-- End single sidebar -->
             </div>
           </div>
@@ -218,4 +252,20 @@ include 'footer.php';
     ====================================================-->
 
   </body>
+  <script type="text/javascript">
+            var x =1;
+            function klikini(x){
+             
+              var data=  document.getElementsByClassName("single_blog");
+              var data2 = document.getElementsByClassName("artikelmetode");
+              for (var i = 0; i < data.length; i++) {
+                  data[i].style.display = "none";           
+                              }
+              for (var i = 0; i < data2.length; i++) {
+                   data2[i].style.background = "white";           
+                  }             
+                data[x].style.display = "block";
+                data2[x].style.background = "red";
+            }
+          </script>
 </html>

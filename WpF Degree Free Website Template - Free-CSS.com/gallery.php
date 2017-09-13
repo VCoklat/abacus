@@ -80,70 +80,197 @@ include 'header.php';
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <div id="gallerySLide" class="gallery_area">
-                <a href="img/gallery/img-large1.jpg" title="This is Title">
-                  <img class="gallery_img" src="img/gallery/img-small1.jpg" alt="img" />
+                <a href="photo/1stComptS_g26i9.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/1stComptS_g26it9.jpg" alt="img" />
                 <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large2.jpg" title="This is Title2">
-                  <img class="gallery_img" src="img/gallery/img-small2.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large3.jpg" title="This is Title3">
-                  <img class="gallery_img" src="img/gallery/img-small3.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large4.jpg" title="This is Title4">
-                  <img class="gallery_img" src="img/gallery/img-small4.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large1.jpg" title="This is Title5">
-                  <img class="gallery_img" src="img/gallery/img-small1.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large2.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small2.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large3.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small3.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                <a href="img/gallery/img-large4.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small4.jpg" alt="img" />
-                  <span class="view_btn">View</span>
-                </a>
-                 <a href="img/gallery/img-large1.jpg" title="This is Title">
-                  <img class="gallery_img" src="img/gallery/img-small1.jpg" alt="img" />
+                <a href="photo/Abacus Aces_g26i25.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Aces_g26it25.jpg" alt="img" />
                 <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large2.jpg" title="This is Title2">
-                  <img class="gallery_img" src="img/gallery/img-small2.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus as Holi Soponsor_g26i19.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus as Holi Soponsor_g26it19.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large3.jpg" title="This is Title3">
-                  <img class="gallery_img" src="img/gallery/img-small3.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus as Indian Dance Sponsor_g26i24.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus as Indian Dance Sponsor_g26it24.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large4.jpg" title="This is Title4">
-                  <img class="gallery_img" src="img/gallery/img-small4.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus at Holi Festival 2_g26i20.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus at Holi Festival 2_g26it20.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large1.jpg" title="This is Title5">
-                  <img class="gallery_img" src="img/gallery/img-small1.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus Class 4_g26i13.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 4_g26it13.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large2.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small2.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus at Holi Festival 3_g26i21.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus at Holi Festival 3_g26it21.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large3.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small3.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus Booth 2_g26i22.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Booth 2_g26it22.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
-                <a href="img/gallery/img-large4.jpg">
-                  <img class="gallery_img" src="img/gallery/img-small4.jpg" alt="img" />
-                  <span class="view_btn">View</span>
+                <a href="photo/Abacus Booth_g26i23.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Booth_g26it23.jpg" alt="img" />
+                <span class="view_btn">View</span>
                 </a>
+                <a href="photo/Abacus Class 1_g26i11.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 1_g26it11.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class 2_g26i12.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 2_g26it12.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class 3_g26i14.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 3_g26it14.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class 5_g26i15.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 5_g26it15.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class 6_g26i17.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 6_g26it17.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class 7_g26i18.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class 7_g26it18.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Class_g26i16.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Class_g26it16.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Gift Bag_g26i38.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Gift Bag_g26it38.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Kids 1_g26i27.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Kids 1_g26it27.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Kids_g26i28.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Kids_g26it28.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Lesson_g26i29.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Lesson_g26it29.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Math 2_g26i32.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Math 2_g26it32.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Math Booth_g26i30.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Math Booth_g26it30.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Math Demo_g26i33.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Math Demo_g26it33.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Medals _g26i37.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Medals _g26it37.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Student Graduation_g26i34.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Student Graduation_g26it34.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Abacus Students_g26i31.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Abacus Students_g26it31.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/AbacusAceAll_g26i42.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/AbacusAceAll_g26it42.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/ABG as Indian Dance Sponsor_g26i36.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/ABG as Indian Dance Sponsor_g26it36.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/ABG as Sponsor_g26i35.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/ABG as Sponsor_g26it35.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/ABG at Holi Festival_g26i39.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/ABG at Holi Festival_g26it39.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/ABG Card_g26i40.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/ABG Card_g26it40.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Fun Rewards in the Classroom _g26i26.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Fun Rewards in the Classroom _g26it26.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/HomeworkTopAchiever_g26i44.png" title="This is Title">
+                  <img class="gallery_img" src="photo/HomeworkTopAchiever_g26it44.png" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/HomeworkTopAchiever2011_g26i43.png" title="This is Title">
+                  <img class="gallery_img" src="photo/HomeworkTopAchiever2011_g26it43.png" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/IQ_g26i46.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/IQ_g26it46.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/JuliJinHwei-1_g26i7.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/JuliJinHwei-1_g26it7.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/LostAbacus_g26i45.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/LostAbacus_g26it45.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Pan Pacific Abacus 2003.1-2_g26i2.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Pan Pacific Abacus 2003.1-2_g26it2.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Pan Pacific Abacus 2003.2-2_g26i3.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Pan Pacific Abacus 2003.2-2_g26it3.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Pan Pacific Abacus 2003.3 1-2_g26i0.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Pan Pacific Abacus 2003.3 1-2_g26it0.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Pan Pacific Abacus 2003.3-2_g26i1.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Pan Pacific Abacus 2003.3-2_g26it1.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/PanPacificCompt_g26i8.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/PanPacificCompt_g26it8.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/PanPacific-Toronto1_g26i4.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/PanPacific-Toronto1_g26it4.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/San Jose Abacus_g26i5.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/San Jose Abacus_g26it5.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/San Jose_g26i6.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/San Jose_g26it6.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/Soroban Math_g26i41.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/Soroban Math_g26it41.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+                <a href="photo/TeachTrain_g26i10.jpg" title="This is Title">
+                  <img class="gallery_img" src="photo/TeachTrain_g26it10.jpg" alt="img" />
+                <span class="view_btn">View</span>
+                </a>
+
+               
+               
             </div>
           </div>
         </div>

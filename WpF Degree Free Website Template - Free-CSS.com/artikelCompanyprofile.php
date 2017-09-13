@@ -104,11 +104,11 @@ Abacus Brain Gym Indonesia merupakan sebuah pelatihan kekuatan mental otak melal
 3.Software komputer dari USA<br>
 
 dilengkapi dengan :<br>
-4.<a href="brainGymMethod.php" style="color: red">Brain Gym</a> atau senam otak (olahraga sederhana yang mengaktifkan keseluruhan fungsi otak)<br>
-5.<a href="CharacterBuildingMethod.php" style="color: red">Wisdom Factors</a>(pembentukan 24 karakter orang jenius) melalui story telling (cerita anak-anak yang bermoral)<br>
+4.<a href="apaitubraingym.php" style="color: red">Brain Gym</a> atau senam otak (olahraga sederhana yang mengaktifkan keseluruhan fungsi otak)<br>
+5.<a href="CB.php" style="color: red">Wisdom Factors</a>(pembentukan 24 karakter orang jenius) melalui story telling (cerita anak-anak yang bermoral)<br>
 6.Jaringan international<br>
 7.Ujian kelulusan bersertifikat international<br>
-8.Perlombaan berskala nasional dan internasional (<a href="gallery.php" style="color: red">Hall of Fame</a>)<br>
+8.Perlombaan berskala nasional dan internasional (<a href="HallOfFame.php" style="color: red">Hall of Fame</a>)<br>
 </div>
 <br>
 <br>
