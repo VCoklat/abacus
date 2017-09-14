@@ -8,7 +8,7 @@
               </div>
             </div>
             <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
+              <!-- <div class="single_footer_widget">
                 <h3>Community</h3>
                 <ul class="footer_widget_nav">
                   <li><a href="#">Our Tutors</a></li>
@@ -17,10 +17,10 @@
                   <li><a href="#">Forum</a></li>
                   <li><a href="#">News &amp; Media</a></li>
                 </ul>
-              </div>
+              </div> -->
             </div>
             <div class="col-ld-3  col-md-3 col-sm-3">
-              <div class="single_footer_widget">
+              <<!-- div class="single_footer_widget">
                 <h3>Others</h3>
                 <ul class="footer_widget_nav">
                   <li><a href="#">Link 1</a></li>
@@ -29,7 +29,7 @@
                   <li><a href="#">Link 4</a></li>
                   <li><a href="#">Link 5</a></li>
                 </ul>
-              </div>
+              </div> -->
             </div>
             <div class="col-ld-3  col-md-3 col-sm-3">
               <div class="single_footer_widget">
@@ -39,9 +39,9 @@
               <!--     <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="#"><i class="fa fa-twitter"></i></a></li>
                   <li><a data-toggle="tooltip" data-placement="top" title="Google+" class="soc_tooltip"  href="#"><i class="fa fa-google-plus"></i></a></li>
                   <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="#"><i class="fa fa-linkedin"></i></a></li> -->
-                  <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="contact.php"><i class="fa fa-envelope"></i></a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="Email" class="soc_tooltip"  href="contact.php"><i class="fa fa-envelope"></i></a></li>
                   <li><a data-toggle="tooltip" data-placement="top" title="Youtube" class="soc_tooltip"  href="https://www.youtube.com/channel/UCHfnnsLsFutbpd5iCJpcLtw"><i class="fa fa-youtube"></i></a></li>
-                  <li><a data-toggle="tooltip" data-placement="top" title="Linkedin" class="soc_tooltip"  href="https://www.instagram.com/abacusbraingym/"><i class="fa fa-instagram"></i></a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="soc_tooltip"  href="https://www.instagram.com/abacusbraingym/"><i class="fa fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>
