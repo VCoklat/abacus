@@ -104,12 +104,12 @@ include 'header.php';
                     </div>
                     <p>
 
-&emsp;Sejarah dan penelitian neuro-ilmiah baru-baru ini telah mengkonfirmasi secara positif keefektifan pelatihan sempoa. Dengan menghitung menggunakan metode sempoa yang menggunakan pendekatan hands-on, kid-friendly dan multiple-intelligence telah terbukti memberi manfaat untuk meningkatkan perkembangan otak manusia. Selain itu, metode sempoa (bayangan atau mental) juga dapat menjaga pikiran seseorang tetap waspada, sehingga mempermudah seseorang untuk menyerap suatu pelajaran karena seluruh otak bekerja secara maksimal.<br>
+&emsp;Sejarah dan penelitian neuro-ilmiah baru-baru ini telah mengkonfirmasi secara positif keefektifan pelatihan sempoa. Dengan menghitung menggunakan metode sempoa yang menggunakan pendekatan hands-on, kid-friendly dan multiple-intelligence telah terbukti memberi manfaat untuk meningkatkan perkembangan otak manusia. Selain itu, metode sempoa (bayangan atau mental) juga dapat menjaga pikiran seseorang tetap waspada, sehingga mempermudah seseorang untuk menyerap suatu pelajaran karena seluruh otak bekerja secara maksimal.<br><br>
 &emsp;Pembelajaran sempoa dapat berfungsi dengan baik karena adanya kombinasi unik dari beberapa alat, penelitian, dan metode klasik dan kontemporer. Tujuan utama dari program ini adalah untuk  mengajari siswa bagaimana cara menghitung secara mental, sembari mengembangkan dan meningkatkan fungsi dan performa otak.<br>
-<br>
+<br><br>
 <font style="color: red;font-weight: bold">Sempoa + Otak + Software + Pengajar Berkualitas  = </font> <font style="color: green;font-weight: bold"> Pelatihan Mental Aritmatika Terbaik! WOW!  </font>
 <br><br>
-&emsp;OTAK manusia didesain untuk menghadapi berbagai tantangan dan dapat berfungsi sebagai KOMPUTER SUPER. Informasi berjalan melintasi sistem saraf dengan kecepatan lebih dari 200 mil per jam. Bagaimana bisa otak menjadi jalan tol super untuk informasi? <br>
+&emsp;OTAK manusia didesain untuk menghadapi berbagai tantangan dan dapat berfungsi sebagai KOMPUTER SUPER. Informasi berjalan melintasi sistem saraf dengan kecepatan lebih dari 200 mil per jam. Bagaimana bisa otak menjadi jalan tol super untuk informasi? <br><br>
 &emsp;Otak kita didesain untuk aplikasi yang sangat kompleks, seperti komputer. Jadi, mengapa tidak kita gunakan? Lupakan kalkulator. Ketika tangan, kedua belah otak, gelombang otak, syaraf pendengaran, dan memori selaras, otak berada dalam performa terbaiknya. Hal tersebut didesain untuk mencapai kesuksesan. Eureka! Mengulangi sesuatu berulang kali akan memperkuat jalur yang telah terbentuk. Plastisitas otak membuktikan bahwa bagian otak yang lebih sering digunakan adalah bagian otak yang lebih luas dan berkembang. Oleh karena pelatihan sempoa dapat mensinkronisasi seluruh aspek tersebut, sel-sel otak akan tumbuh dan daerah otak akan meluas dan berkembang. Ilmu sains telah membuktikannya.
 </p>
                     

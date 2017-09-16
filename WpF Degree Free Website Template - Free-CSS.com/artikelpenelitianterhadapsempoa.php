@@ -53,6 +53,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+      p{
+        text-align: justify;
+      }
+    </style>
   </head>
   <body> 
 
@@ -104,27 +109,27 @@
 Dipublikasi di Indian J Physiol Pharmacol. 2006 Jul-Sep;50(3):225-33)<br>
 Department of Physiology, Stanley Medical College and Hospital, Chennai 600 003.<br>
 <br>
-Sempoa adalah metode yang telah digunakan oleh orang Cina, Jepang dan Korea untuk meningkatkan kemampuan matematika mereka. Sistem ini sekarang telah tersebar luas ke berbagai  negara. Perkembangan dalam keterampilan matematika ini disebabkan oleh fungsi terkoordinasi dari belahan otak kanan dan kiri. Karena pelajaran di bidang apa pun berhubungan dengan koordinasi dan analisis rangsangan sensoris yang berbeda, dalam penelitian ini, peneliti meneliti apakah seorang peserta pelatihan sempoa akan mengalami peningkatan dalam memori jangka pendek. Subjek penelitian adalah 50 anak-anak dengan IQ rata-rata yang berusia 5 sampai 12 tahun dari 2 sekolah reguler dan 50 dari lembaga sempoa. Peneliti meneliti memori jangka pendek sebelum dan sesudah belajar sempoa satu tahun sampai dua tahun. Tes memori ini diukur dengan skala memori Wechsler, mini mental state examination, dan layar memori untuk objek dari Mann - Buitar. Hasil penelitian menunjukkan bahwa peserta pelatihan sempoa pada akhir tahun pertama dan kedua memiliki ingatan visual dan pendengaran yang lebih baik bila dibandingkan dengan pelajar yang tidak mempelajari sempoa.<br>
+&emsp;&emsp;Sempoa adalah metode yang telah digunakan oleh orang Cina, Jepang dan Korea untuk meningkatkan kemampuan matematika mereka. Sistem ini sekarang telah tersebar luas ke berbagai  negara. Perkembangan dalam keterampilan matematika ini disebabkan oleh fungsi terkoordinasi dari belahan otak kanan dan kiri. Karena pelajaran di bidang apa pun berhubungan dengan koordinasi dan analisis rangsangan sensoris yang berbeda, dalam penelitian ini, peneliti meneliti apakah seorang peserta pelatihan sempoa akan mengalami peningkatan dalam memori jangka pendek. Subjek penelitian adalah 50 anak-anak dengan IQ rata-rata yang berusia 5 sampai 12 tahun dari 2 sekolah reguler dan 50 dari lembaga sempoa. Peneliti meneliti memori jangka pendek sebelum dan sesudah belajar sempoa satu tahun sampai dua tahun. Tes memori ini diukur dengan skala memori Wechsler, mini mental state examination, dan layar memori untuk objek dari Mann - Buitar. Hasil penelitian menunjukkan bahwa peserta pelatihan sempoa pada akhir tahun pertama dan kedua memiliki ingatan visual dan pendengaran yang lebih baik bila dibandingkan dengan pelajar yang tidak mempelajari sempoa.<br>
 <br>
 <font style="color: red;font-weight: bold">Ahli pengguna sempoa dan pelatihan kecerdasan</font><br>
-Mr. Lin and Mr. Haqits, profesors dari Osaka Education University, meneliti orang yang menggunakan sempoa dan menemukan bahwa dengan menggunakan sempoa bisa membantu seseorang untuk memperkuat dan meningkatkan kecerdasan mereka. Hasil dari penelitian mereka, mereka tulis dalam sebuah thesis pada Journal of British Medical Science.<br>
+&emsp;&emsp;Mr. Lin and Mr. Haqits, profesors dari Osaka Education University, meneliti orang yang menggunakan sempoa dan menemukan bahwa dengan menggunakan sempoa bisa membantu seseorang untuk memperkuat dan meningkatkan kecerdasan mereka. Hasil dari penelitian mereka, mereka tulis dalam sebuah thesis pada Journal of British Medical Science.<br>
 <br>
-Dr. Sinagwakane, professor dari Japan Medical University, dan Mr. Kawano and Mr. Osisewbi juga melakukan penelitian sejenis dan membuat laporan pada Conference of Japan Physiology Association ke 68 di Kyoto.<br>
+&emsp;&emsp;Dr. Sinagwakane, professor dari Japan Medical University, dan Mr. Kawano and Mr. Osisewbi juga melakukan penelitian sejenis dan membuat laporan pada Conference of Japan Physiology Association ke 68 di Kyoto.<br>
 <br>
 <font style="color: red;font-weight: bold">Disertasi gelar Doktor tentang pembelajaran sempoa </font><br>
-Associate professor University of Chicago, Dr.James Stigler, meneliti tentang pembelajaran sempoa untuk disertasinya. Beliau menetap di Taiwan selama 2 tahun dan melakukan penelitian kepada anak-anak sebelum dan sesudah mempelajari sempoa. Kemudian beliau menuliskan penelitiannya dan mendapatkan gelar Ph.D. Psychology in Human Behavior. Selanjutnya, ia menuliskan banyak tesis lain tentang pembelajaran sempoa. Salah satu tesisnya yang terkenal berjudul "Mental Abacus - The Effect of Abacus Training on Chinese Children's Mental Calculation".<br>
+&emsp;&emsp;Associate professor University of Chicago, Dr.James Stigler, meneliti tentang pembelajaran sempoa untuk disertasinya. Beliau menetap di Taiwan selama 2 tahun dan melakukan penelitian kepada anak-anak sebelum dan sesudah mempelajari sempoa. Kemudian beliau menuliskan penelitiannya dan mendapatkan gelar Ph.D. Psychology in Human Behavior. Selanjutnya, ia menuliskan banyak tesis lain tentang pembelajaran sempoa. Salah satu tesisnya yang terkenal berjudul "Mental Abacus - The Effect of Abacus Training on Chinese Children's Mental Calculation".<br>
 <br>
 <font style="color: red;font-weight: bold">Studi Ko-operatif antara Jepang dan Amerika tentang dampak pembelajaran sempoa </font><br>
-Dr. Flanagan dari University of Maryland dan Dr.Biga dari Liuqiu University melakukan penelitian bersama mengenai dampak pembelajaran sempoa. Penelitian tersebut menemukan bahwa nilai matematika dari anak-anak di Jepang lebih tinggi daripada anak-anak di Amerika. Selain itu, penelitian mereka juga menemukan bahwa anak-anak yang mempelajari sempoa menempati peringkat teratas pada pembelajaran matematika.<br>
+&emsp;&emsp;Dr. Flanagan dari University of Maryland dan Dr.Biga dari Liuqiu University melakukan penelitian bersama mengenai dampak pembelajaran sempoa. Penelitian tersebut menemukan bahwa nilai matematika dari anak-anak di Jepang lebih tinggi daripada anak-anak di Amerika. Selain itu, penelitian mereka juga menemukan bahwa anak-anak yang mempelajari sempoa menempati peringkat teratas pada pembelajaran matematika.<br>
 <br>
 <font style="color: red;font-weight: bold">Dampak Konsentrasi</font><br>
-Decker Avenue School di California melakukan penelitian tentang konsentrasi anak setelah mempelajari metode sempoa. Dari studi tersebut ditemukan dampak yang sangat baik terhadap konsentrasi anak setelah mempelajari metode sempoa.<br>
+&emsp;&emsp;Decker Avenue School di California melakukan penelitian tentang konsentrasi anak setelah mempelajari metode sempoa. Dari studi tersebut ditemukan dampak yang sangat baik terhadap konsentrasi anak setelah mempelajari metode sempoa.<br>
 <br>
 <font style="color: red;font-weight: bold">Eksperimen mengenai dampak dari pendidikan </font><br>
-Pengajar Amerika ingin mengetahui mengapa anak-anak Amerika tidak menyukai dan mengalami kesulitan dalam aritmatika. Kemudian mereka memperkenalkan metode sempoa di kelas. Ternyata anak-anak senang belajar dengan sempoa. Mereka senang belajar dengan pendekatan konkret dibandingkan pendekatan abstrak. Mereka secara bertahap menjadi suka mempelajari aritmatika. <br>
+&emsp;&emsp;Pengajar Amerika ingin mengetahui mengapa anak-anak Amerika tidak menyukai dan mengalami kesulitan dalam aritmatika. Kemudian mereka memperkenalkan metode sempoa di kelas. Ternyata anak-anak senang belajar dengan sempoa. Mereka senang belajar dengan pendekatan konkret dibandingkan pendekatan abstrak. Mereka secara bertahap menjadi suka mempelajari aritmatika. <br>
 <br>
 <font style="color: red;font-weight: bold">Alat pengajaran tertentu</font><br>
-Anak-anak senang bekerja dengan menggunakan sesuatu yang konkret daripada hanya duduk dan mendengarkan penjelasan guru. Metode sempoa merupakan alat yang baik untuk membina sikap dan perilaku aktif dalam proses pembelajaran, seperti yang diutarakan dalam teori Piaget dan Haslett. <br>
+&emsp;&emsp;Anak-anak senang bekerja dengan menggunakan sesuatu yang konkret daripada hanya duduk dan mendengarkan penjelasan guru. Metode sempoa merupakan alat yang baik untuk membina sikap dan perilaku aktif dalam proses pembelajaran, seperti yang diutarakan dalam teori Piaget dan Haslett. <br>
 <br>
 </p>
                   </div>

@@ -1389,7 +1389,15 @@ div[data-dimension] {
 .single_blog p {
   line-height: 25px;
   font-size: 15px;
+  text-align: justify;
 }
+
+.single_blog div {
+  line-height: 25px;
+  font-size: 15px;
+  text-align: justify;
+}
+
 .single_blog blockquote{
   border-left: none;
 }

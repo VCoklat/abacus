@@ -106,18 +106,19 @@ Biofeedback: Terobosan Kecil dalam Belajar</a></h3></center>
 
 
 <font style="color: red;font-style: italic;font-weight: bold">Penelitian Gelombang Otak</font><br>
-Otak manusia adalah organ elektrokimia. Saat bekerja, berbagai daerah otak mengeluarkan frekuensi yang berbeda yang disebut gelombang otak. Penelitian menemukan bahwa pola gelombang otak berhubungan langsung dengan perilaku, kemampuan dan performa kita. Setelah puluhan tahun mengukur pola gelombang otak para pemimpin, seniman, ilmuwan dan pikiran kreatif dari semua lapisan masyarakat, pola optimal yang disebut "The Awakened Mind" dirilis pada tahun 1979 oleh psiko-fisiologis dan biofisikawan asal Inggris, C. Maxwell Cade.
+&emsp;&emsp;Otak manusia adalah organ elektrokimia. Saat bekerja, berbagai daerah otak mengeluarkan frekuensi yang berbeda yang disebut gelombang otak. Penelitian menemukan bahwa pola gelombang otak berhubungan langsung dengan perilaku, kemampuan dan performa kita. Setelah puluhan tahun mengukur pola gelombang otak para pemimpin, seniman, ilmuwan dan pikiran kreatif dari semua lapisan masyarakat, pola optimal yang disebut "The Awakened Mind" dirilis pada tahun 1979 oleh psiko-fisiologis dan biofisikawan asal Inggris, C. Maxwell Cade.
 
-<div style="margin-top: 10px"><font style="color: red;font-style: italic;font-weight: bold">Pola Gelombang Otak pada Puncak Performa</font><br>
+<div style="margin-top: 20px"><font style="color: red;font-style: italic;font-weight: bold">Pola Gelombang Otak pada Puncak Performa</font><br>
 <table>
 <tr>
 <td>
-Otak manusia dapat bekerja secara maksimal dengan menggabungkan semua hal dalam waktu bersamaan, meliputi:
+&emsp;&emsp;Otak manusia dapat bekerja secara maksimal dengan menggabungkan semua hal dalam waktu bersamaan, meliputi:
 <li>intuitif dan empati dari gelombang delta </li>
 <li>inspirasi kreatif, wawasan (insight) pribadi, dan kesadaran spiritual dari  gelombang theta </li>
 <li>kapasitas menjembatani kesadaran gelombang alfa yang santai dan bebas</li>
 <li>perhatian eksternal dan kemampuan untuk secara sadar memproses pemikiran tentang gelombang beta</li>
-Pola gelombang otak tersebut dapat ditemukan pada "peak experience" atau "peak performance" (puncak performa), terlepas dari konten dan tujuannya, dalam segala bentuk tugas yang membutuhkan kreativitas dan performa tinggi. Hal yang terpenting di sini bukanlah frekuensi mana yang terbaik, melainkan "bagaimana cara menggabungkan frekuensi-frekuensi tersebut yang menentukan keadaan kesadaran yang optimum.</td><td>
+<br>
+&emsp;&emsp;Pola gelombang otak tersebut dapat ditemukan pada "peak experience" atau "peak performance" (puncak performa), terlepas dari konten dan tujuannya, dalam segala bentuk tugas yang membutuhkan kreativitas dan performa tinggi. Hal yang terpenting di sini bukanlah frekuensi mana yang terbaik, melainkan "bagaimana cara menggabungkan frekuensi-frekuensi tersebut yang menentukan keadaan kesadaran yang optimum.</td><td>
 <img src="img/artikelkenapabelajarsempoaotakdimax.png"></td>
 </tr>
 </table>
@@ -128,7 +129,7 @@ Pola gelombang otak tersebut dapat ditemukan pada "peak experience" atau "peak p
 <table>
 <tr>
 <td>
-Pengalaman atau kejadian “Ah-ha!" adalah saat kita tiba-tiba menemukan suatu ide cermelang, atau mendapatkan suatu pemahaman. Saat tersebut akan menghasilkan pola gelombang otak yang serupa dengan pola “awakened mind”. Pola tersebut ditandai dengan ledakan gelombang beta dan alfa.<br>
+&emsp;&emsp;Pengalaman atau kejadian “Ah-ha!" adalah saat kita tiba-tiba menemukan suatu ide cermelang, atau mendapatkan suatu pemahaman. Saat tersebut akan menghasilkan pola gelombang otak yang serupa dengan pola “awakened mind”. Pola tersebut ditandai dengan ledakan gelombang beta dan alfa.<br>
 Ketika sebuah pengalaman "ah-ha" terjadi, sebuah asosiasi tercipta antara masalah yang membutuhkan resolusi dan pembelajaran tidak sadar yang tersedia untuk subjek. Otak dapat dilatih untuk menghasilkan pola “Ah-Ha”.
 </td>
 <td>
@@ -140,17 +141,17 @@ Ketika sebuah pengalaman "ah-ha" terjadi, sebuah asosiasi tercipta antara masala
 
 <div style="margin-top: 10px">
 <font style="color: red;font-style: italic;font-weight: bold">Keadaan Belajar Super (Super Learning)</font><br>
-Keadaan belajar super, yang memiliki kesamaan karakteristik dengan pola gelombang otak saat puncak performa, terjadi saat gelombang alfa dan teta mendominasi. Namun, dalam keadaan belajar super, gelombang beta berkurang. Hal ini menghasilkan keadaan unik di mana otak dapat menerima informasi dalam jumlah yang lebih besar daripada biasanya. Hal ini terjadi karena filter pikiran sadar dapat dengan mudah terlewati. Sebagai akibatnya, pengetahuan diserap secara langsung dan tanpa disaring terlebih dahulu.<br><br>
+&emsp;&emsp;Keadaan belajar super, yang memiliki kesamaan karakteristik dengan pola gelombang otak saat puncak performa, terjadi saat gelombang alfa dan teta mendominasi. Namun, dalam keadaan belajar super, gelombang beta berkurang. Hal ini menghasilkan keadaan unik di mana otak dapat menerima informasi dalam jumlah yang lebih besar daripada biasanya. Hal ini terjadi karena filter pikiran sadar dapat dengan mudah terlewati. Sebagai akibatnya, pengetahuan diserap secara langsung dan tanpa disaring terlebih dahulu.<br><br>
 </div>
 <div style="margin-top: 10px">
-Tujuan dari pelatihan metode mental dalam sempoa adalah untuk membantu anak mengendalikan pola-pola gelombang otak tersebut. Kontrol tersebut memberikan akses kepada anak untuk mencapai gelombang otak yang diinginkan dan diperlukan untuk proses belajar. Dengan menggunakan inti dari teknik "pendengaran cepat" (“speed hearing”) dan melalui serangkaian latihan berhitung yang telah didesain secara cermat, anak dilatih untuk mencapai keadaan pikiran yang optimal untuk menghadapi berbagai tugas.
+&emsp;&emsp;Tujuan dari pelatihan metode mental dalam sempoa adalah untuk membantu anak mengendalikan pola-pola gelombang otak tersebut. Kontrol tersebut memberikan akses kepada anak untuk mencapai gelombang otak yang diinginkan dan diperlukan untuk proses belajar. Dengan menggunakan inti dari teknik "pendengaran cepat" (“speed hearing”) dan melalui serangkaian latihan berhitung yang telah didesain secara cermat, anak dilatih untuk mencapai keadaan pikiran yang optimal untuk menghadapi berbagai tugas.
 </div>
 <img src="img/artikelkenapabelajarsempoa.png"><br>
 <font style="color: orange;font-style: italic;font-weight: bold">Gambar Pola Gelombang Otak saat Mengerjakan Sempoa</font>
 
-<div style="margin-top: 10px">
+<div style="margin-top: 20px">
 <font style="color: red;font-style: italic;font-weight: bold">Metode Abacus Brain Gym</font><br>
-Kekuatan metode mental dalam sempoa terdiri dari manipulasi tiga variabel kunci, yakni tingkat kesulitan dalam tugas, durasi pengerjaan tugas, dan kecepatan tugas harus diselesaikan. Manipulasi variabel-variabel tersebut membutuhkan sistem yang terstruktur dan teknologi yang canggih, seperti halnya pengukuran respon siswa. Abacus Brain Gym adalah salah satu dari sedikit institusi yang menyediakan pelatihan dan teknologi tersebut. Abacus Brain Gym memiliki keunikan dalam kemampuannya menyediakan peralatan, program pelatihan, dan dukungan instruksional untuk membimbing anak Anda melalui metode mental (sempoa). Hasil dari metode Abacus Brain Gym adalah bahwa seseorang mampu melampaui kemampuannya untuk melakukan perhitungan cepat. Manfaat jangka panjangnya adalah anak memiliki alat yang akan mendukung setiap proses belajar di masa depan.
+&emsp;&emsp;Kekuatan metode mental dalam sempoa terdiri dari manipulasi tiga variabel kunci, yakni tingkat kesulitan dalam tugas, durasi pengerjaan tugas, dan kecepatan tugas harus diselesaikan. Manipulasi variabel-variabel tersebut membutuhkan sistem yang terstruktur dan teknologi yang canggih, seperti halnya pengukuran respon siswa. Abacus Brain Gym adalah salah satu dari sedikit institusi yang menyediakan pelatihan dan teknologi tersebut. Abacus Brain Gym memiliki keunikan dalam kemampuannya menyediakan peralatan, program pelatihan, dan dukungan instruksional untuk membimbing anak Anda melalui metode mental (sempoa). Hasil dari metode Abacus Brain Gym adalah bahwa seseorang mampu melampaui kemampuannya untuk melakukan perhitungan cepat. Manfaat jangka panjangnya adalah anak memiliki alat yang akan mendukung setiap proses belajar di masa depan.
 </div>
 </p>
                     

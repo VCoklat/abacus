@@ -98,6 +98,15 @@
                 <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
                 <div class="single_blog">
+                                <h2 class="blog_title"><a href="blog-single.html">Character Building </a></h2>
+                   
+                    <p>
+&emsp;&emsp;Character building (pembangunan karakter) merupakan sesi dimana anak akan ditanamkan nilai-nilai yang positif melalui cerita anak-anak yang bermoral. Sesi ini bertujuan agar anak dapat menerima dan menginternalisasi nilai-nilai positif yang telah didapat melalui cerita dalam kehidupan sehari-hari. Dengan demikian, diharapkan anak-anak dapat memiliki karakter yang positif sebagai bekal menjadi generasi penerus bangsa. <br><br>
+Sesi character building diberikan di akhir pertemuan setelah sesi brain gym dan pembelajaran metode sempoa. Hal ini bertujuan agar setelah otak anak terstimulasi dan teroptimalisasi dengan baik, otak anak telah siap dan mudah untuk menerima informasi dan mempelajari suatu hal, sehingga anak mudah mempelajari nilai-nilai positif yang diharapkan ada pada diri mereka. <br><br>
+&emsp;&emsp;Pada sesi ini, anak akan dibacakan sebuah cerita anak-anak yang bermoral. Setelah mendengarkan cerita, anak akan diberikan beberapa pertanyaan seputar cerita untuk memastikan anak memahami cerita yang didengarnya. Kemudian, anak juga akan diajak untuk menemukan pesan moral yang dapat diambil dari cerita yang didengar. Sebagai penutup, pengajar akan menyimpulkan kembali nilai-nilai atau pesan moral yang dapat dipelajari dari cerita yang disampaikan beserta alasan dan contoh aplikasi nyatanya dalam kehidupan sehari-hari. Anak akan diminta untuk menuliskan pesan yang mereka pelajari tersebut dalam lembar Character Building Report agar nilai-nilai yang mereka telah pelajari lebih teringat lagi.
+Sebagai tugas di rumah, anak akan diminta untuk menceritakan cerita yang mereka dengar kepada orang tua mereka. Dengan demikian, mereka akan lebih mengingat cerita yang telah mereka dengar dan pesan moral yang mereka pelajari. Hal ini juga dapat mempererat hubungan dan komunikasi antara anak dengan orang tua. Dengan bercerita, kemampuan berbahasa dan story telling (menceritakan kembali) anak akan terlatih.<br><br>
+&emsp;&emsp;Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka pelajari dalam kehidupan sehari-hari.
+</p>
                     <!-- start events slider -->
                    <!--  <div class="events_slider_area">
                       <div class="events_slider">
@@ -107,20 +116,9 @@
                       </div>
                     </div> -->
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Pentingnya Character Building</a></h2>
-                   
-                    <p>
-Pada saat usia antara 0-6 tahun, otak berkembang sangat cepat hingga 80 persen dari otak orang dewasa. Pada saat itu, otak anak akan menyerap semua informasi yang masuk, tanpa melihat baik atau buruknya hal tersebut. Itulah masa dimana perkembangan fisik, mental maupun spiritual anak akan mulai terbentuk. Karena itu, banyak yang menyebut masa tersebut sebagai masa-masa emas anak (Golden Age). <br>
-Sebuah penelitian yang dilakukan di AS menemukan bahwa pengalaman anak pada bulan dan tahun pertama kehidupannya sangat menentukan apakah anak ini akan mampu menghadapi tantangan dalam kehidupannya dan apakah ia akan menunjukkan semangat tinggi untuk belajar dan berhasil dalam pekerjaannya. (http://aichildrencare.com/edu-news/74-building-character.html)
-Maka dari itu, orang tua sebaiknya memanfaatkan masa-masa ini untuk memberikan pendidikan karakter yang baik pada anak sehingga anak tesebut bisa meraih keberhasilan dan kesuksesan dimasa yang akan datang. <br>
-Kadang sebagai orang tua, kita tidak sadar sikap yang kita berikan kepada anak justru tidak membangun melainkan menjatuhkan mental si anak. Dengan memukul dan memberikan tekanan pada anak dapat menjadikan anak bersikap negatif, rendah diri, minder, penakut, dan tidak berani mengambil resiko, yang pada akhirnya karakter-karakter tersebut akan dibawanya sampai ia dewasa.<br>
-Saat anak dewasa, karakter semacam itu akan menjadi penghambat baginya dalam meraih dan mewujudkan keinginannya. Misalnya, tidak bisa menjadi seorang public speaker karena ia minder atau malu. Tidak berani mengambil peluang tertentu karena ia tidak mau mengambil resiko dan takut gagal. Padahal, jika dia bersikap positif maka resiko bisa diubah sebagai tantangan untuk meraih keberhasilan.<br>
-Pasti sebagian besar dari kita beranggapan bahwa sukses atau tidaknya seseorang tergantung dari nilai yang dia dapat. Semakin tinggi nilai yang didapat dalam pelajaran semakin sukses anak itu. Padahal fakta membuktikan kebanyakan orang yang sukses tidak memiliki prestasi yang gemilang disekolahnya. Mengapa bisa demikian? Karena sebenarnya kesuksesan itu tidak hanya ditentukan oleh kecerdasan otak seseorang semata. Tetapi kecakapan membangun hubungan emosional  kita dengan diri sendiri, orang lain dan lingkunganlah yang lebih berperan dalam menentukan orang itu sukses atau tidak. Selain itu hubungan spiritual yang tidak boleh dilupakan adalah hubungan spiritual dengan Tuhan Yang Maha Esa. Jadi kita bisa menarik kesimpulan bahwa sebenarnya kunci sukses seseorang ditentukan dengan 3 pilar utama yaitu diri sendiri, sosial, dan Tuhan. Dan sebenarnya karakter-karakter tersebut tidak sepenuhnya bawaan dari lahir seseorang. Karakter seperti ini bisa dibentuk dan dikembangkan.<br>
-Cara membentuk karakter anak sejak dini salah satu caranya dengan memberikan kepercayaan pada anak untuk mengambil keputusan untuk dirinya sendiri, membantu anak mengarahkan potensinya dengan begitu mereka lebih mampu untuk bereksplorasi dengan sendirinya, tidak menekannya baik secara langsung atau secara halus, dan seterusnya. Manfaatkanlah usia emas anak dengan sebaik baiknya!
-
-</p>
+                    
                   </div>
-                  <div class="single_blog">
+                  <div class="single_blog" style="display: none">
                     <!-- start events slider -->
                     <!-- <div class="events_slider_area">
                       <div class="events_slider">
@@ -130,14 +128,18 @@ Cara membentuk karakter anak sejak dini salah satu caranya dengan memberikan kep
                       </div>
                     </div> -->
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html">Character Building </a></h2>
+    
+
+<h2 class="blog_title"><a href="blog-single.html">Pentingnya Character Building</a></h2>
                    
                     <p>
-Character building (pembangunan karakter) merupakan sesi dimana anak akan ditanamkan nilai-nilai yang positif melalui cerita anak-anak yang bermoral. Sesi ini bertujuan agar anak dapat menerima dan menginternalisasi nilai-nilai positif yang telah didapat melalui cerita dalam kehidupan sehari-hari. Dengan demikian, diharapkan anak-anak dapat memiliki karakter yang positif sebagai bekal menjadi generasi penerus bangsa. <br><br>
-Sesi character building diberikan di akhir pertemuan setelah sesi brain gym dan pembelajaran metode sempoa. Hal ini bertujuan agar setelah otak anak terstimulasi dan teroptimalisasi dengan baik, otak anak telah siap dan mudah untuk menerima informasi dan mempelajari suatu hal, sehingga anak mudah mempelajari nilai-nilai positif yang diharapkan ada pada diri mereka. <br><br>
-Pada sesi ini, anak akan dibacakan sebuah cerita anak-anak yang bermoral. Setelah mendengarkan cerita, anak akan diberikan beberapa pertanyaan seputar cerita untuk memastikan anak memahami cerita yang didengarnya. Kemudian, anak juga akan diajak untuk menemukan pesan moral yang dapat diambil dari cerita yang didengar. Sebagai penutup, pengajar akan menyimpulkan kembali nilai-nilai atau pesan moral yang dapat dipelajari dari cerita yang disampaikan beserta alasan dan contoh aplikasi nyatanya dalam kehidupan sehari-hari. Anak akan diminta untuk menuliskan pesan yang mereka pelajari tersebut dalam lembar Character Building Report agar nilai-nilai yang mereka telah pelajari lebih teringat lagi.
-Sebagai tugas di rumah, anak akan diminta untuk menceritakan cerita yang mereka dengar kepada orang tua mereka. Dengan demikian, mereka akan lebih mengingat cerita yang telah mereka dengar dan pesan moral yang mereka pelajari. Hal ini juga dapat mempererat hubungan dan komunikasi antara anak dengan orang tua. Dengan bercerita, kemampuan berbahasa dan story telling (menceritakan kembali) anak akan terlatih.<br><br>
-Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka pelajari dalam kehidupan sehari-hari.
+&emsp;&emsp;Pada saat usia antara 0-6 tahun, otak berkembang sangat cepat hingga 80 persen dari otak orang dewasa. Pada saat itu, otak anak akan menyerap semua informasi yang masuk, tanpa melihat baik atau buruknya hal tersebut. Itulah masa dimana perkembangan fisik, mental maupun spiritual anak akan mulai terbentuk. Karena itu, banyak yang menyebut masa tersebut sebagai masa-masa emas anak (Golden Age). <br><br>
+&emsp;&emsp;Sebuah penelitian yang dilakukan di AS menemukan bahwa pengalaman anak pada bulan dan tahun pertama kehidupannya sangat menentukan apakah anak ini akan mampu menghadapi tantangan dalam kehidupannya dan apakah ia akan menunjukkan semangat tinggi untuk belajar dan berhasil dalam pekerjaannya. (http://aichildrencare.com/edu-news/74-building-character.html)
+Maka dari itu, orang tua sebaiknya memanfaatkan masa-masa ini untuk memberikan pendidikan karakter yang baik pada anak sehingga anak tesebut bisa meraih keberhasilan dan kesuksesan dimasa yang akan datang. <br><br>
+&emsp;&emsp;Kadang sebagai orang tua, kita tidak sadar sikap yang kita berikan kepada anak justru tidak membangun melainkan menjatuhkan mental si anak. Dengan memukul dan memberikan tekanan pada anak dapat menjadikan anak bersikap negatif, rendah diri, minder, penakut, dan tidak berani mengambil resiko, yang pada akhirnya karakter-karakter tersebut akan dibawanya sampai ia dewasa.<br><br>
+&emsp;&emsp;Saat anak dewasa, karakter semacam itu akan menjadi penghambat baginya dalam meraih dan mewujudkan keinginannya. Misalnya, tidak bisa menjadi seorang public speaker karena ia minder atau malu. Tidak berani mengambil peluang tertentu karena ia tidak mau mengambil resiko dan takut gagal. Padahal, jika dia bersikap positif maka resiko bisa diubah sebagai tantangan untuk meraih keberhasilan.<br><br>
+&emsp;&emsp;Pasti sebagian besar dari kita beranggapan bahwa sukses atau tidaknya seseorang tergantung dari nilai yang dia dapat. Semakin tinggi nilai yang didapat dalam pelajaran semakin sukses anak itu. Padahal fakta membuktikan kebanyakan orang yang sukses tidak memiliki prestasi yang gemilang disekolahnya. Mengapa bisa demikian? Karena sebenarnya kesuksesan itu tidak hanya ditentukan oleh kecerdasan otak seseorang semata. Tetapi kecakapan membangun hubungan emosional  kita dengan diri sendiri, orang lain dan lingkunganlah yang lebih berperan dalam menentukan orang itu sukses atau tidak. Selain itu hubungan spiritual yang tidak boleh dilupakan adalah hubungan spiritual dengan Tuhan Yang Maha Esa. Jadi kita bisa menarik kesimpulan bahwa sebenarnya kunci sukses seseorang ditentukan dengan 3 pilar utama yaitu diri sendiri, sosial, dan Tuhan. Dan sebenarnya karakter-karakter tersebut tidak sepenuhnya bawaan dari lahir seseorang. Karakter seperti ini bisa dibentuk dan dikembangkan.<br><br>
+&emsp;&emsp;Cara membentuk karakter anak sejak dini salah satu caranya dengan memberikan kepercayaan pada anak untuk mengambil keputusan untuk dirinya sendiri, membantu anak mengarahkan potensinya dengan begitu mereka lebih mampu untuk bereksplorasi dengan sendirinya, tidak menekannya baik secara langsung atau secara halus, dan seterusnya. Manfaatkanlah usia emas anak dengan sebaik baiknya!
 
 </p>
                   </div>
@@ -197,8 +199,8 @@ Selain itu, anak juga diminta untuk mempraktekan nilai-nilai yang telah mereka p
           <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
-              <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red">Pentingnya Character Building</button> 
-            <button onclick="klikini(1)"  class="artikelmetode"> Apa saja Manfaat Belajar Character Building</button>
+            <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red"> Apa saja Manfaat Belajar Character Building?</button>
+              <button onclick="klikini(1)"  class="artikelmetode" >Pentingnya Character Building</button> 
             
           
               <!-- End single sidebar -->

@@ -117,7 +117,7 @@ Gerakan-gerakan brain gym juga akan melibatkan koordinasi bagian kanan dan kiri 
 Sebagai tugas di rumah, anak akan diminta untuk berlatih gerakan-gerakan yang telah diajarkan, dimana mayoritas gerakan dapat dilakukan di mana saja dan kapan saja. Dengan demikian, diharapkan anak dapat memiliki rutinitas untuk menggerakan anggota tubuh mereka dan melatih kedua belah otak mereka.
 </p>
                   </div>
-                   <div class="single_blog">
+                   <div class="single_blog" style="display: none">
                     <!-- start events slider -->
                  <!--    <div class="events_slider_area">
                       <div class="events_slider">
@@ -135,7 +135,7 @@ Pada awalnya Senam otak atau Brain Gym dimanfaatkan bagi anak-anak yang mengalam
 </p>
                   </div>
 
-                  <div class="single_blog">
+                  <div class="single_blog" style="display: none;">
                     <!-- start events slider -->
                    <!--  <div class="events_slider_area">
                       <div class="events_slider">

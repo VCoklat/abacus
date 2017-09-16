@@ -101,8 +101,8 @@ include 'header.php';
                       <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
                     </div>
                     <p>
-&emsp;Pengetahuan matematika setengah juta siswa dari empat puluh satu negara diuji. Dari negara-negara yang berpartisipasi dalam tes tersebut diperoleh data bahwa siswa Amerika memiliki kemampuan matematika di bawah rata-rata. 
-Salah satu studi yang paling terkenal berjudul “Pursuing Excellence, Third International Mathematics and Science Study” menemukan bahwa pendidikan matematika yang diberikan di Amerika Serikat terbukti lebih rendah dibandingkan dengan negara lain, khususnya sistem pendidikan Jepang dan Asia lainnya. Siswa-siswa Jepang dan Asia memiliki kemampuan matematika yang lebih tinggi daripada siswa Amerika Serikat.  <br>
+&emsp;Pengetahuan matematika setengah juta siswa dari empat puluh satu negara diuji. Dari negara-negara yang berpartisipasi dalam tes tersebut diperoleh data bahwa siswa Amerika memiliki kemampuan matematika di bawah rata-rata. <br><br>
+Salah satu studi yang paling terkenal berjudul “Pursuing Excellence, Third International Mathematics and Science Study” menemukan bahwa pendidikan matematika yang diberikan di Amerika Serikat terbukti lebih rendah dibandingkan dengan negara lain, khususnya sistem pendidikan Jepang dan Asia lainnya. Siswa-siswa Jepang dan Asia memiliki kemampuan matematika yang lebih tinggi daripada siswa Amerika Serikat.  <br><br>
 &emsp;Selain jurnal “Pursuing Excellence”, banyak juga penelitian telah dilakukan oleh kelompok peneliti, seperti National Center for Education Statistics of the U.S. Department of Education (Pusat Statistik Pendidikan Nasional Departemen Pendidikan A.S.) dan International Association for the Evaluation of Educational Achievement (Asosiasi Internasional untuk Evaluasi Prestasi Pendidikan) yang menunjukkan perbedaan metode pengajaran antara Amerika Serikat dan Jepang.
 
 </p>

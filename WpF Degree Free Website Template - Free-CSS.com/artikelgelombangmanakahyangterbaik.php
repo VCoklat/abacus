@@ -102,11 +102,11 @@ include 'header.php';
                       <p><i class="fa fa-map-marker"></i>Location: London,UK</p>     -->                  
                     </div>
                     <p>
-Tipe-tipe gelombang otak: <br>
-<font style="color: red;font-weight: bold;">BETA:</font>  Pola gelombang otak yang bekerja paling cepat. Beta dikaitkan dengan konsentrasi, gairah, kewaspadaan, dan kognisi. Pada tingkat tertinggi dan paling cepat, beta dikaitkan dengan kecemasan, dan kegelisahan.<br>
-<font style="color: red;font-weight: bold;">ALFA:</font> Aktivitas gelombang otak yang santai. Pola alfa sangat bervariasi mulai dari alfa biasa hingga alfa dalam. Pada saat keadaan gelombang alfa yang dalam, kita akan berada dalam keadaan relaksasi yang dalam, sering disebut sebagai " twilight state" antara tidur dan bangun. Keadaan gelombang alfa yang lebih tinggi merupakan keadaan yang lebih terfokus, namun masih sangat santai. Keadaan inilah yang dikenal sebagai 'super-learning state'.<br>
-<font style="color: red;font-weight: bold;">TETA:</font> Tahap gelombang otak yang sedang bermimpi, namun juga terkait juga dengan sejumlah tahap bermanfaat lainnya, termasuk peningkatan kreativitas, super leraning, peningkatan kemampuan memori, dan apa yang disebut pengalaman integratif "Ah-ha!"dimana pada tahap ini Anda tiba-tiba dapat mengerti dan memiliki wawasan tentang suatu hal atau menemukan ide cermelang.<br>
-<font style="color: red;font-weight: bold;">DELTA:</font> Pola gelombang yang paling lambat. Biasanya terjadi saat kita tertidur tanpa mimpi.
+Tipe-tipe gelombang otak: <br><br>
+<font style="color: red;font-weight: bold;">BETA:</font>  Pola gelombang otak yang bekerja paling cepat. Beta dikaitkan dengan konsentrasi, gairah, kewaspadaan, dan kognisi. Pada tingkat tertinggi dan paling cepat, beta dikaitkan dengan kecemasan, dan kegelisahan.<br><br>
+<font style="color: red;font-weight: bold;">ALFA:</font> Aktivitas gelombang otak yang santai. Pola alfa sangat bervariasi mulai dari alfa biasa hingga alfa dalam. Pada saat keadaan gelombang alfa yang dalam, kita akan berada dalam keadaan relaksasi yang dalam, sering disebut sebagai " twilight state" antara tidur dan bangun. Keadaan gelombang alfa yang lebih tinggi merupakan keadaan yang lebih terfokus, namun masih sangat santai. Keadaan inilah yang dikenal sebagai 'super-learning state'.<br><br>
+<font style="color: red;font-weight: bold;">TETA:</font> Tahap gelombang otak yang sedang bermimpi, namun juga terkait juga dengan sejumlah tahap bermanfaat lainnya, termasuk peningkatan kreativitas, super leraning, peningkatan kemampuan memori, dan apa yang disebut pengalaman integratif "Ah-ha!"dimana pada tahap ini Anda tiba-tiba dapat mengerti dan memiliki wawasan tentang suatu hal atau menemukan ide cermelang.<br><br>
+<font style="color: red;font-weight: bold;">DELTA:</font> Pola gelombang yang paling lambat. Biasanya terjadi saat kita tertidur tanpa mimpi.<br><br>
 &rarr;Namun, yang perlu diperhatikan bukanlah gelombang otak mana yang terbaik. Keadaan otak yang terbaik dan paling optimal adalah saat gelombang alfa, beta, dan teta mencapai keseimbangan. Kondisi seimbang antara ketiga gelombang otak tersebut dapat terjadi saat seseorang berlatih metode sempoa secara rutin.<br>
 </p>
                     
