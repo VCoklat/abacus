@@ -11,7 +11,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>WpF Degree : Events Single</title>
+     <title>Abacus Brain Gym</title>
 
     <!-- Mobile Specific Metas
     ================================================== -->
