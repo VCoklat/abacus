@@ -139,7 +139,7 @@ Seseorang yang belajar atau bekerja terus menerus pasti akan merasakan kebosanan
               </div>
               <!-- end blog archive  -->
               <!-- start related post -->
-              <div class="related_post">
+             <!--  <div class="related_post">
                 <h2>More Events</h2>
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-sm-6">
@@ -175,7 +175,7 @@ Seseorang yang belajar atau bekerja terus menerus pasti akan merasakan kebosanan
                     </div>
                   </div>
                 </div> 
-              </div> 
+              </div>  -->
               <!-- start related post -->           
             </div>
           </div>

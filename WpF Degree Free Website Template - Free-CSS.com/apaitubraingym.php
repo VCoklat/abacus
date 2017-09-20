@@ -148,7 +148,7 @@ Pada awalnya Senam otak atau Brain Gym dimanfaatkan bagi anak-anak yang mengalam
                     <h2 class="blog_title"><a href="blog-single.html">Manfaat Brain Gym</a></h2>
                    
                     <p>
-Brain gym merupakan salah satu teknik belajar yang paling baik karena banyak manfaat yang terdapat dalam brain gym itu sendiri. Manfaat melakukan brain gym antara lain:<br>
+Brain gym merupakan salah satu teknik belajar yang paling baik karena banyak manfaat yang terdapat dalam brain gym itu sendiri. Manfaat melakukan brain gym antara lain:<br><br>
 1.Menyeimbangkan otak kanan dan otak kiri
 <br><br>
 Gerakan tangan kanan dan tangan kiri pada umumnya didesain berbeda atau berlawanan, sehingga secara perlahan otak kanan dan otak kiri akan seimbang melalui latihan yang rutin. Hal ini dikarenakan gerakan tangan kiri dikoordinasikan oleh otak kanan, sedangkan gerakan otak kanan dikoordinasikan oleh otak kiri. Ketika kedua tangan melakukan gerakan yang berbeda dalam waktu yang bersamaan, kedua otak akan bekerja sama dan berkoordinasi hingga mencapai keseimbangan.
@@ -196,7 +196,7 @@ Seseorang yang belajar atau bekerja terus menerus pasti akan merasakan kebosanan
           <div class="col-lg-4 col-md-4 col-sm-4">
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
-        <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red">Apa itu Brain Gym?</button> 
+        <button onclick="klikini(0)"  class="artikelmetode" style="background-color: red">Brain Gym</button> 
             <button onclick="klikini(1)"  class="artikelmetode">Sejarah Brain Gym</button>
             <button onclick="klikini(2)"  class="artikelmetode">Manfaat Brain Gym</button>
           

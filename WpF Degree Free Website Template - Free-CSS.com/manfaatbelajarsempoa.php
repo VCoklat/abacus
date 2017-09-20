@@ -186,7 +186,7 @@ Selain 10 hal yang telah disebutkan di atas, ada kelebihan lain yang bisa dipero
               </div>
               <!-- end blog archive  -->
               <!-- start related post -->
-              <div class="related_post">
+            <!--   <div class="related_post">
                 <h2>More Events</h2>
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-sm-6">
@@ -222,7 +222,7 @@ Selain 10 hal yang telah disebutkan di atas, ada kelebihan lain yang bisa dipero
                     </div>
                   </div>
                 </div> 
-              </div> 
+              </div>  -->
               <!-- start related post -->           
             </div>
           </div>

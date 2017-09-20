@@ -113,15 +113,15 @@ Tipe-tipe gelombang otak: <br><br>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Event</a>
-                    <a class="next_post wow fadeInRight" href="#">Next Event<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="#"><i class="fa fa-angle-left"></i>Previous Article</a>
+                    <a class="next_post wow fadeInRight" href="#">Next Article<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
               </div>
               <!-- end blog archive  -->
               <!-- start related post -->
-              <div class="related_post">
+            <!--   <div class="related_post">
                 <h2>More Events</h2>
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-sm-6">
@@ -157,7 +157,7 @@ Tipe-tipe gelombang otak: <br><br>
                     </div>
                   </div>
                 </div> 
-              </div> 
+              </div>  -->
               <!-- start related post -->           
             </div>
           </div>

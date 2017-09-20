@@ -33,7 +33,7 @@
             </div>
             <div class="col-ld-3  col-md-3 col-sm-3">
               <div class="single_footer_widget">
-                <h3>Media Social</h3>
+                <h3>Media Sosial</h3>
                 <ul class="footer_social">
                   <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="https://facebook.com/abacusbraingymID/?refid=46&sld=eyJzZWFyY2hfc2lkIjoiZmQ1ZmRlYTc3MWE5ODk3MGUxNWQ1NjY1MzI1NDJkNDEiLCJxdWVyeSI6Ilx1MDA0MGFiYWN1c2JyYWluZ3ltSUQiLCJzZWFyY2hfdHlwZSI6IlNlYXJjaCIsInNlcXVlbmNlX2lkIjoxNDgwMTg0MDMyLCJwYWdlX251bWJlciI6MSwiZmlsdGVyX3R5cGUiOiJTZWFyY2giLCJlbnRfaWQiOjg0ODE2OTE1MjA1NzYxMywicG9zaXRpb24iOjAsInJlc3VsdF90eXBlIjoyNzR9"><i class="fa fa-facebook"></i></a></li>
               <!--     <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="#"><i class="fa fa-twitter"></i></a></li>
